@@ -25,7 +25,7 @@ alle sezioni `insegnamenti <http://www.ccdinfmi.unimi.it/it/avvisi/CATINS/>`_ ed
 `esami <http://www.ccdinfmi.unimi.it/it/avvisi/CATEXA/>`_) del sito del `Collegio
 Didattico Dipartimentale di Informatica <http://www.ccdinfmi.unimi.it/>`_
 
-Il **ricecimento studenti** è per appuntamento, gli studenti interessati sono
+Il **ricevimento studenti** è per appuntamento, gli studenti interessati sono
 pregati di prendere visione delle linee guida per il  `rapporto con gli studenti
 <https://santini.di.unimi.it/d/ricevimento.html>`_ del docente.
 
