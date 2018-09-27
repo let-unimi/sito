@@ -3,15 +3,15 @@
 ### Obiettivi dell’insegnamento 
 
 La teoria dei **linguaggi** formali è una delle discipline centrali
-dell'informatica; l'uso delle *grammatiche* da essa studiate non solo consente
+dell'informatica; l'uso delle *grammatiche* da essa studiate non solo permette
 di definire in modo conciso ed esatto insiemi infiniti (come ad esempio: i
 programmi sintatticamente corretti, i documenti HTML validi, i file XML ben
 formati, gli indirizzi email o le URL aderenti allo standard), ma consente anche
 vari tipi di trattamento automatico dei medesimi. In particolare, permette di
-definire **traduttori** automatici che, sfruttando la struttura grammaticale,
-conseguono obiettivi di grande complessità ed utilità (come, ad esempio: la
-compilazione, interpretazione e transpilazione del codice, l'individuazione di
-errori di programmazione, l'estrazione di informazioni strutturate…).
+definire **traduttori** che, sfruttando la struttura grammaticale, conseguono
+obiettivi di grande complessità ed utilità (come, ad esempio: la compilazione,
+interpretazione e transpilazione del codice, l'individuazione di errori di
+programmazione, l'estrazione di informazioni strutturate…).
 
 Questo insegnamento ha per obiettivo l'apprendimento degli aspetti *teorici* e
 *algoritmici* dei linguaggi formali coinvolti nelle attività di definizione e
@@ -23,19 +23,19 @@ studio.
 
 A seguito del superamento dell'esame, lo studente:
 
-* conosce le principali nozioni riguardanti i linguaggi regolari e liberi da
+* conosce le principali nozioni riguardanti i linguaggi regolari e liberi dal
   contesto,
 * conosce le tecniche di analisi lessicale e sintattica di base e la loro
   implementazione pratica,
-* conosce alcuni rudimenti di funzionamento di interpreti, compilatori e
+* conosce alcuni rudimenti del funzionamento di interpreti, compilatori e
   transpilatori;
 
 inoltre è in grado di:
 
-* definire una grammatica (regolare, o libera da contesto) per descrivere
+* definire una grammatica (regolare, o libera dal contesto) per descrivere
   semplici linguaggi di uso comune,
-* utilizzare uno strumento di costruzione automatica di analisi lessicale e
-  sintattica, 
+* utilizzare uno strumento di costruzione automatica di analizattori lessicali e
+  sintattici, 
 * scrivere il codice necessario a realizzare semplici traduttori.
 
 ### Argomenti trattati 
@@ -79,9 +79,9 @@ L'insegnamento non prevede prove in itinere. La prova finale è costituita da un
   comprensione del funzionamento dei vari algoritmi di analisi lessicale e
   sintattica;
 * la capacità di applicare tale conoscenza a un semplice caso concreto, sia in
-  relazione gli aspetti grammaticali che algoritmici;
-* la capacità di utilizzare uno strumento per la generazione automatica di un
-  analizzatore e/o traduttore.
+  relazione agli aspetti grammaticali che algoritmici;
+* la capacità di utilizzare uno strumento per la generazione automatica di
+  analizzatori e/o traduttori.
 
 La prova orale può essere accompagnata da un **progetto** software da realizzare
 in modo autonomo, o in gruppo, come concordato assieme al docente nell'arco
