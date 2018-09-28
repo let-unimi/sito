@@ -89,7 +89,7 @@ delle lezioni.
 
 ### Bibliografia 
 
-I testi di riferimento del corso sono:
+I testi di riferimento per la parte teorica ed algoritmica del corso sono:
 
 * Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs e Koen Langendoen (2012) 
   [Modern Compiler Design](https://doi.org/10.1007/978-1-4614-4699-6), *Springer*, New York;
@@ -97,22 +97,34 @@ I testi di riferimento del corso sono:
 * Dick Grune e Ceriel J. H. Jacobs (2008), 
   [Parsing Techniques. A Practical Guide](https://doi.org/10.1007/978-0-387-68954-8), *Springer*, New York;
 
+La maggior parte del materiale sarà tratta dai primi capitoli del primo libro;
+il secondo tratta i medesimi argomenti, a un grado di dettaglio molto più
+elevato di quello richiesto dal corso, ma è riportato sia come riferimento, che
+in quanto è possibile scaricarne una versione PDF dalla rete dell'Ateneo (nei
+termini della licenza d'uso stabilita dall'editore). 
+
+Per quanto concerne lo strumento di costruzione automatica di analizzatori
+lessicali e sintattici, i testi di riferimento sono:
+
+* Terence Parr (2013),
+  [The Definitive ANTLR 4 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference), *The Pragmatic Bookshelf*;
+
+* Terence Parr (2009),
+  [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns), *The Pragmatic Bookshelf*.
+
+Un testo di riferimento per i linguaggi formali, utile come approfondimento, o
+per colmare eventuali lacune rimaste dal corso di "Linguaggi formali", è il
+classico:
+
 * John E. Hopcroft, Rajeev Motwani, e Jeffrey D. Ullman (2007), 
   [Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html), *Pearson*.
 
-La maggior parte del materiale sarà tratta dai primi capitoli del primo volume.
-Il secondo volume tratta i medesimi argomenti, a un grado di dettaglio molto più
-elevato di quello richiesto dal corso, ma è riportato come riferimento, in
-quanto è possibile scaricarne una versione PDF dalla rete dell'Ateneo (nei
-termini della licenza d'uso stabilita dall'editore). Il terzo volume è un testo
-di riferimento per i linguaggi formali, utile come approfondimento, o per
-colmare eventuali lacune rimaste dal corso di "Linguaggi formali". 
-
-Ci sono validi testi in italiano, come:
+Ci sono validi testi in italiano che riguardano sia la parte dei linguaggi
+formali che quella di analisi e traduzione, come:
 
 * Stefano Crespi Reghizzi, Luca Breveglieri e Angelo Morzenti (2015), [Linguaggi formali e compilazione](https://www.editrice-esculapio.com/s-crespi-reghizzi-l-breveglieri-a-morzenti-linguaggi-formali-e-compilazione/), *Esculapio*;
 
 * John E. Hopcroft, Rajeev Motwani,  e Jeffrey D. Ullman [Automi, linguaggi e calcolabilità](https://www.pearson.it/opera/pearson/0-6576-automi_linguaggi_e_calcolabilita), *Pearson*;
 
-per chi avesse seri problemi con la lingua inglese, per tutti gli altri studenti
-si raccomanda l'uso del primo volume riportato in bibliografia.
+sono suggeriti solo per chi avesse seri problemi con la lingua inglese, per
+tutti gli altri studenti si raccomanda l'uso dei volumi sopra citati.
