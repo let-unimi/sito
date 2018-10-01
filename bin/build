@@ -6,7 +6,7 @@ python -m sphinx -E sito docs
 (cd ./docs
 rm -rf .doctrees/
 rm -rf _sources/
-yes | rm -f ./genindex.html
+rm -f ./genindex.html
 find -name \*.html | cut -d/ -f2 | sed 's|^|https://let.di.unimi.it/|' > ./sitemap.txt
     (
         echo 'User-agent: *' && \
