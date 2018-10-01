@@ -34,7 +34,7 @@ inoltre è in grado di:
 
 * definire una grammatica (regolare, o libera dal contesto) per descrivere
   semplici linguaggi di uso comune,
-* utilizzare uno strumento di costruzione automatica di analizattori lessicali e
+* utilizzare uno strumento di costruzione automatica di analizzatori lessicali e
   sintattici, 
 * scrivere il codice necessario a realizzare semplici traduttori.
 
