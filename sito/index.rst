@@ -7,7 +7,7 @@ Linguaggi e traduttori
 
 
 Questo è il sito dell'insegnamento di `Linguaggi e traduttori
-<http://www.ccdinfmi.unimi.it/it/corsiDiStudio/2019/F1Xof2/default/F1X-90/F1X-90.19.1/>`_.
+<http://www.ccdinfmi.unimi.it/it/corsiDiStudio/2019/F1Xof2/default/F1X-90/F1X-90.19.1/>`_,
 tenuto da `Massimo Santini <https://santini.di.unimi.it/>`_ del `Dipartimento di
 Informatica <http://www.di.unimi.it/>`_ dell'`Univeristà degli Studi di Milano
 <https://www.unimi.it/>`_.
