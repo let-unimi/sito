@@ -17,8 +17,8 @@ project = 'LeT@UniMI'
 copyright = '2018, Massimo Santini'
 author = 'Massimo Santini'
 
-version = '1.0'
-release = '1.0-beta'
+version = ''
+release = ''
 
 # -- General configuration ---------------------------------------------------
 
