@@ -13,8 +13,6 @@ find -name \*.html | cut -d/ -f2 | sed 's|^|https://let.di.unimi.it/|' > ./sitem
         find -maxdepth 1 -name _\* | cut -d/ -f2 | sed 's|^\(.*\)|Disallow: /\1/|' && \
         echo 'Allow: /_static/logo.png '
     ) > ./robots.txt
-echo 'let.di.unimi.it' > ./CNAME
-touch ./.nojekyll
 )
 
 
