@@ -50,9 +50,9 @@ Riguardo all'ambito generale dei linguaggi formali:
 
 Riguardo agli aspetti legati alla traduzione:
 
-* analisi lessicale: divisione in *token*;
-* analisi grammaticale: *parsing* (a discesa ricorsiva, top-down e bottom-up);
-* interpreti, compilatori e transpilatori: nozioni di base.
+* analisi lessicale e divisione in *token*: espressioni regolari, relazione con gli automi a stati finiti;
+* analisi grammaticale e *parsing*: tecniche generali non direzionali, tecniche generali direzionali (*top-down* e *bottom-up*), tecniche deterministiche (grammatiche *LL* e *LR*); cenni di gestione degli errori;
+* interpreti, compilatori e transpilatori: nozioni di base, grammatiche con parametri/attributi, pattern generali.
 
 
 ### Prerequisiti 
@@ -91,26 +91,29 @@ delle lezioni.
 
 I testi di riferimento per la parte teorica ed algoritmica del corso sono:
 
-* Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs e Koen Langendoen (2012) 
-  [Modern Compiler Design](https://doi.org/10.1007/978-1-4614-4699-6), *Springer*, New York;
-
 * Dick Grune e Ceriel J. H. Jacobs (2008), 
   [Parsing Techniques. A Practical Guide](https://doi.org/10.1007/978-0-387-68954-8), *Springer*, New York;
 
-La maggior parte del materiale sarà tratta dai primi capitoli del primo libro;
-il secondo tratta i medesimi argomenti, a un grado di dettaglio molto più
-elevato di quello richiesto dal corso, ma è riportato sia come riferimento, che
-in quanto è possibile scaricarne una versione PDF dalla rete dell'Ateneo (nei
-termini della licenza d'uso stabilita dall'editore). 
-
-Per quanto concerne lo strumento di costruzione automatica di analizzatori
-lessicali e sintattici, i testi di riferimento sono:
-
-* Terence Parr (2013),
-  [The Definitive ANTLR 4 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference), *The Pragmatic Bookshelf*;
-
 * Terence Parr (2009),
   [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns), *The Pragmatic Bookshelf*.
+
+La maggior parte del materiale sarà tratta dai primi capitoli del primo libro
+(di cui è possibile scaricare una versione PDF gratuita dalla rete dell'Ateneo,
+nei termini della licenza d'uso stabilita dall'editore); il secondo testo tratta
+aspetti più pratici e legati allo strumento di costruzione automatica di
+analizzatori lessicali e sintattici utilizzato nel corso.
+
+Come approfondimento individuale, con maggior orientamento alla parte di
+costruzione di interpreti e compilatori, si consiglia
+
+* Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs e Koen Langendoen (2012) 
+  [Modern Compiler Design](https://doi.org/10.1007/978-1-4614-4699-6), *Springer*, New York;
+
+mentre per quanto concerne lo strumento di costruzione automatica di analizzatori
+lessicali e sintattici, il testo di riferimento è:
+
+* Terence Parr (2013),
+  [The Definitive ANTLR 4 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference), *The Pragmatic Bookshelf*.
 
 Un testo di riferimento per i linguaggi formali, utile come approfondimento, o
 per colmare eventuali lacune rimaste dal corso di "Linguaggi formali", è il
