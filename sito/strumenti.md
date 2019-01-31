@@ -37,11 +37,11 @@ sviluppato da [Terence Parr](https://parrt.cs.usfca.edu/).
 La documentazione necessaria al suo uso (oltre ai libri indicati nella
 [bibliografia](info#bibliografia) delle informazioni generali sul corso) può
 essere reperita gratuitamente nel [repository
-ufficiale](https://github.com/antlr/antlr4/blob/master/doc/index.md), in
+ufficiale](https://github.com/antlr/antlr4/blob/master/doc/index%2emd), in
 particolare può risultare utile la lettura della guida "[Getting
-Started](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md)" e
+Started](https://github.com/antlr/antlr4/blob/master/doc/getting-started%2emd)" e
 delle indicazioni sull'uso del [target per Python
-3](https://github.com/antlr/antlr4/blob/master/doc/python-target.md), così come
+3](https://github.com/antlr/antlr4/blob/master/doc/python-target%2emd), così come
 il [repository della versione Python
 3](https://github.com/jszheng/py3antlr4book) dei programmi di esempio contenuti
 nel libro "[The Definitive ANTLR 4
