@@ -1,5 +1,9 @@
 ## Informazioni sul corso
 
+### Orario delle lezioni
+
+Le lezioni del corso si tengono il **martedì** alle ore **10:30 – 12:30** in [Aula 109](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=3>) e il **giovedì** alle ore **11:30 – 13:30** in [Aula Alfa](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=79); la lezione del martedì può estendersi fino alle 14:30 nel caso di approfondimenti pratici, o **esercitazioni**.
+
 ### Obiettivi dell’insegnamento 
 
 La teoria dei **linguaggi** formali è una delle discipline centrali
@@ -27,8 +31,8 @@ A seguito del superamento dell'esame, lo studente:
   contesto,
 * conosce le tecniche di analisi lessicale e sintattica di base e la loro
   implementazione pratica,
-* conosce alcuni rudimenti del funzionamento di interpreti, compilatori e
-  transpilatori;
+* conosce alcuni rudimenti del funzionamento di interpreti, transpilatori e più
+  in generale di traduzione tra formati strutturati;
 
 inoltre è in grado di:
 
@@ -50,9 +54,13 @@ Riguardo all'ambito generale dei linguaggi formali:
 
 Riguardo agli aspetti legati alla traduzione:
 
-* analisi lessicale e divisione in *token*: espressioni regolari, relazione con gli automi a stati finiti;
-* analisi grammaticale e *parsing*: tecniche generali non direzionali, tecniche generali direzionali (*top-down* e *bottom-up*), tecniche deterministiche (grammatiche *LL* e *LR*); cenni di gestione degli errori;
-* interpreti, compilatori e transpilatori: nozioni di base, grammatiche con parametri/attributi, pattern generali.
+* analisi lessicale e divisione in *token*: espressioni regolari, relazione con
+  gli automi a stati finiti;
+* analisi grammaticale e *parsing*: tecniche generali non direzionali, tecniche
+  generali direzionali (*top-down* e *bottom-up*), tecniche deterministiche
+  (grammatiche *LL* e *LR*);
+* interpreti transpilatori e traduttori: nozioni di base, grammatiche con
+  attributi, pattern generali.
 
 
 ### Prerequisiti 
@@ -77,7 +85,7 @@ L'insegnamento non prevede prove in itinere. La prova finale è costituita da un
 
 * la conoscenza delle definizioni e delle nozioni teoriche fondamentali, e la
   comprensione del funzionamento dei vari algoritmi di analisi lessicale e
-  sintattica;
+  sintattica e traduzione;
 * la capacità di applicare tale conoscenza a un semplice caso concreto, sia in
   relazione agli aspetti grammaticali che algoritmici;
 * la capacità di utilizzare uno strumento per la generazione automatica di
@@ -109,8 +117,8 @@ costruzione di interpreti e compilatori, si consiglia
 * Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs e Koen Langendoen (2012) 
   [Modern Compiler Design](https://doi.org/10.1007/978-1-4614-4699-6), *Springer*, New York;
 
-mentre per quanto concerne lo strumento di costruzione automatica di analizzatori
-lessicali e sintattici, il testo di riferimento è:
+mentre per quanto concerne lo strumento di costruzione automatica di
+analizzatori lessicali e sintattici, il testo di riferimento è:
 
 * Terence Parr (2013),
   [The Definitive ANTLR 4 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference), *The Pragmatic Bookshelf*.

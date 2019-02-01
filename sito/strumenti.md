@@ -46,3 +46,14 @@ il [repository della versione Python
 3](https://github.com/jszheng/py3antlr4book) dei programmi di esempio contenuti
 nel libro "[The Definitive ANTLR 4
 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference)".
+
+
+### Playground 
+
+<p><a href="https://mybinder.org/v2/gh/mapio/let-playground/master?filepath=Playground.ipynb" rel="some text">
+<img src="https://img.shields.io/badge/LeT%40UniMI-Playground-blue.svg"/>
+</a></p>
+
+Al fine di agevolare, sopratutto nelle prime lezioni, l'esplorazione del linguaggio e degli strumenti poi necessari per la realizzazione del progetto, è possibile usare un *playground* disponibile on-line  (attivabile tramite il bottone riportato sopra) che non richiede alcuna installazione, o configurazione, di software. 
+  
+
