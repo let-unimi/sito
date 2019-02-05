@@ -19,6 +19,8 @@ Da questa pagina potete accedere a:
 * :doc:`diario delle lezioni <diario>` con i riferimenti agli argomenti
   trattati e agli strumenti utilizzati.
 
+    Chi intende frequentare il corso per cortesia risponda al `questionario di autovalutazione <https://goo.gl/forms/97u7VUtGrGlG0xIZ2>`_!
+
 Gli **avvisi** relativi al corso sono raggiungibili a partire dalla pagina degli
 `avvisi <http://www.ccdinfmi.unimi.it/it/avvisi/>`_ (con particolare riferimento
 alle sezioni `insegnamenti <http://www.ccdinfmi.unimi.it/it/avvisi/CATINS/>`_ ed
