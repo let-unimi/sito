@@ -1,10 +1,19 @@
 ## Informazioni sul corso
 
-### Orario delle lezioni
+### Orario e modalità delle lezioni
 
-Le lezioni del corso si tengono il **martedì** alle ore **10:30 – 12:30** in [Aula 109](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=3>) e il **giovedì** alle ore **11:30 – 13:30** in [Aula Alfa](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=79); la lezione del martedì può estendersi fino alle 14:30 nel caso di approfondimenti pratici, o **esercitazioni**.
+Le lezioni del corso si tengono il **martedì** alle ore **10:30 – 12:30** in
+[Aula 109](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=3>)
+e il **giovedì** alle ore **11:30 – 13:30** in
+[Aula Alfa](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=79);
+la lezione del martedì può estendersi fino alle 14:30 nel caso di approfondimenti pratici, o **esercitazioni**.
 
-### Obiettivi dell’insegnamento 
+Le lezioni (ed esercitzioni) sono **frontali**, nell'attuale manifesto degli
+studi il corso *non prevede un laboratorio*; per questa e [altre ottime
+ragioni](https://cs.brown.edu/courses/cs019/2018/laptop-policy.html) in classe è
+**vietato l'uso di laptop** e strumenti analoghi.
+
+### Obiettivi dell’insegnamento
 
 La teoria dei **linguaggi** formali è una delle discipline centrali
 dell'informatica; l'uso delle *grammatiche* da essa studiate non solo permette
@@ -23,7 +32,7 @@ uso delle grammatiche, analisi e traduzione e di metterli in *pratica*
 attraverso la realizzazione di programmi concreti relativi a semplici casi di
 studio.
 
-### Risultati di apprendimento attesi 
+### Risultati di apprendimento attesi
 
 A seguito del superamento dell'esame, lo studente:
 
@@ -39,10 +48,10 @@ inoltre è in grado di:
 * definire una grammatica (regolare, o libera dal contesto) per descrivere
   semplici linguaggi di uso comune,
 * utilizzare uno strumento di costruzione automatica di analizzatori lessicali e
-  sintattici, 
+  sintattici,
 * scrivere il codice necessario a realizzare semplici traduttori.
 
-### Argomenti trattati 
+### Argomenti trattati
 
 Riguardo all'ambito generale dei linguaggi formali:
 
@@ -62,8 +71,7 @@ Riguardo agli aspetti legati alla traduzione:
 * interpreti transpilatori e traduttori: nozioni di base, grammatiche con
   attributi, pattern generali.
 
-
-### Prerequisiti 
+### Prerequisiti
 
 Di seguito sono elencate alcune conoscenze preliminari che è bene aver acquisito
 *in modo solido* prima di apprestarsi a seguire le lezioni:
@@ -78,7 +86,7 @@ Di seguito sono elencate alcune conoscenze preliminari che è bene aver acquisit
 * aspetti di base dei linguaggi formali [dal corso "Linguaggi formali e
   automi"].
 
-### Modalità di valutazione 
+### Modalità di valutazione
 
 L'insegnamento non prevede prove in itinere. La prova finale è costituita da un
 **colloquio orale** in cui il candidato deve dimostrare:
@@ -95,11 +103,11 @@ La prova orale può essere accompagnata da un **progetto** software da realizzar
 in modo autonomo, o in gruppo, come concordato assieme al docente nell'arco
 delle lezioni.
 
-### Bibliografia 
+### Bibliografia
 
 I testi di riferimento per la parte teorica ed algoritmica del corso sono:
 
-* Dick Grune e Ceriel J. H. Jacobs (2008), 
+* Dick Grune e Ceriel J. H. Jacobs (2008),
   [Parsing Techniques. A Practical Guide](https://doi.org/10.1007/978-0-387-68954-8), *Springer*, New York;
 
 * Terence Parr (2009),
@@ -114,7 +122,7 @@ analizzatori lessicali e sintattici utilizzato nel corso.
 Come approfondimento individuale, con maggior orientamento alla parte di
 costruzione di interpreti e compilatori, si consiglia
 
-* Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs e Koen Langendoen (2012) 
+* Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs e Koen Langendoen (2012)
   [Modern Compiler Design](https://doi.org/10.1007/978-1-4614-4699-6), *Springer*, New York;
 
 mentre per quanto concerne lo strumento di costruzione automatica di
@@ -127,7 +135,7 @@ Un testo di riferimento per i linguaggi formali, utile come approfondimento, o
 per colmare eventuali lacune rimaste dal corso di "Linguaggi formali", è il
 classico:
 
-* John E. Hopcroft, Rajeev Motwani, e Jeffrey D. Ullman (2007), 
+* John E. Hopcroft, Rajeev Motwani, e Jeffrey D. Ullman (2007),
   [Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html), *Pearson*.
 
 Ci sono validi testi in italiano che riguardano sia la parte dei linguaggi
