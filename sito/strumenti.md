@@ -50,7 +50,7 @@ Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference)"
 
 ### Playground 
 
-<p><a href="https://mybinder.org/v2/gh/mapio/let-playground/master?filepath=Playground.ipynb" rel="some text">
+<p><a href="https://mybinder.org/v2/gh/let-unimi/playground/master?filepath=Playground.ipynb" rel="some text">
 <img src="https://img.shields.io/badge/LeT%40UniMI-Playground-blue.svg"/>
 </a></p>
 
