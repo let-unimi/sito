@@ -24,9 +24,9 @@ Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_.
    +-------+------------+--------------------------------------------------------------+----------------------------+
    | 2     | Gio 28/2   | Introduzione a Python                                        | `TPT 3`_, `TPT 4`_ (4.1-6) |
    +       +            +                                                              +                            +
-   | 3     | Mar 05/3   | Strutture dati ed algoritmi per alberi e grafi               | `TPT 5`_, `TPT 9`_ (9.1-4) |
+   | 3     | Mar 05/3   | Strutture dati ed algoritmi di base per alberi e grafi       | `TPT 5`_, `TPT 9`_ (9.1-4) |
    +       +            +                                                              +                            +
-   | *3E*  | *Mar 05/3* | Implementazione in Python di operazioni di base sugli alberi |                            |
+   | *3E*  | *Mar 05/3* | Implementazione in Python di operazioni su alberi e grafi    |                            |
    +-------+------------+--------------------------------------------------------------+----------------------------+
    |       |            | *Vacanze di carnevale* (1 lezione)                           |                            |
    +-------+------------+--------------------------------------------------------------+----------------------------+
