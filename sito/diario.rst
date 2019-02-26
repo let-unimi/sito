@@ -5,10 +5,12 @@ Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
 supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
 svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
-alle date che al contenuto).
+alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
+13:30, fatto salvo quelle il cui numero è seguito dal carattere *E* sono
+*esercitazioni* e si svolgono (salvo quando diversamente indicato) dalle 10:30
+alle 14:30.  
 
-Le lezioni il cui numero è seguito dal carattere *E* sono *esercitazioni*. Il
-materiale didattico indicato come *TPT* si riferisce al documento `The Python
+Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, mentre quello
 indicato con *PT* si riferisce al libro di testo `Parsing Techniques. A
 Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_.

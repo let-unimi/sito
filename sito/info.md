@@ -2,11 +2,11 @@
 
 ### Orario e modalità delle lezioni
 
-Le lezioni del corso si tengono il **martedì** alle ore **10:30 – 12:30** in
-[Aula 109](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=3>)
+Le lezioni del corso si tengono il **martedì** alle ore **11:30 – 13:30** (o
+dalle **10:30** alle **14:30**, in caso di **esercitazioni**) in 
+[Aula 109](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=3>) 
 e il **giovedì** alle ore **11:30 – 13:30** in
-[Aula Alfa](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=79);
-la lezione del martedì può estendersi fino alle 14:30 nel caso di approfondimenti pratici, o **esercitazioni**.
+[Aula Alfa](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=79).
 
 Le lezioni (ed esercitzioni) sono **frontali**, nell'attuale manifesto degli
 studi il corso *non prevede un laboratorio*; per questa e [altre ottime
