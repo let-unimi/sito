@@ -28,9 +28,7 @@ indicato come *H* si riferisce agli `Handout
    +-------+------------+--------------------------------------------------------------+------------------------------------+
    | 2     | Gio 28/2   | Introduzione a Python                                        | `TPT 3`_, `TPT 4`_ (4.1-6) `H 2`_  | 
    +       +            +                                                              +                                    +
-   | 3     | Mar 05/3   | Strutture dati ed algoritmi di base per alberi e grafi       | `TPT 5`_, `TPT 9`_ (9.1-4)         |
-   +       +            +                                                              +                                    +
-   | *3E*  | *Mar 05/3* | Implementazione in Python di operazioni su alberi e grafi    |                                    |
+   | 3     | Mar 05/3   | Strutture dati ed algoritmi di base per alberi e grafi       | `TPT 5`_, `TPT 9`_ (9.1-4) `H 3`_  |
    +-------+------------+--------------------------------------------------------------+------------------------------------+
    |       |            | *Vacanze di carnevale* (1 lezione)                           |                                    |
    +-------+------------+--------------------------------------------------------------+------------------------------------+
@@ -97,6 +95,7 @@ indicato come *H* si riferisce agli `Handout
    
 
 .. _H 2: https://github.com/let-unimi/handouts/blob/0159d09ebbdeac82b03adc38fdc069a40f54cb1c/L02.ipynb
+.. _H 3: https://github.com/let-unimi/handouts/blob/d49c9c5c8c1937b22728e8eae3294fa14b66cbe8/L03.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 
