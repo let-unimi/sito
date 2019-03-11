@@ -19,10 +19,6 @@ Da questa pagina potete accedere a:
   trattati e agli strumenti utilizzati.
 * :doc:`strumenti di supporto <strumenti>` costituiti da dispense e software,
 
-.. raw:: html
-
-   <div style='padding: 0 .5em 1em'><span style='background: lightyellow; padding: .4em;'>Chi intende frequentare il corso per cortesia risponda al <a style='font-weight: bold' href='https://goo.gl/forms/97u7VUtGrGlG0xIZ2'>questionario sui prerequisiti</a>!</span></div>
-
 Gli **avvisi** relativi al corso sono raggiungibili a partire dalla pagina degli
 `avvisi <http://www.ccdinfmi.unimi.it/it/avvisi/>`_ (con particolare riferimento
 alle sezioni `insegnamenti <http://www.ccdinfmi.unimi.it/it/avvisi/CATINS/>`_ ed
