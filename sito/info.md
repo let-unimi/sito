@@ -8,7 +8,7 @@ dalle **10:30** alle **14:30**, in caso di **esercitazioni**) in
 e il **giovedì** alle ore **11:30 – 13:30** in
 [Aula Alfa](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=79).
 
-Le lezioni (ed esercitzioni) sono **frontali**, nell'attuale manifesto degli
+Le lezioni (ed esercitazioni) sono **frontali**, nell'attuale manifesto degli
 studi il corso *non prevede un laboratorio*; per questa e [altre ottime
 ragioni](https://cs.brown.edu/courses/cs019/2018/laptop-policy.html) in classe è
 **vietato l'uso di laptop** e strumenti analoghi.
