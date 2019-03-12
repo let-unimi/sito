@@ -32,7 +32,7 @@ indicato come *H* si riferisce agli `Handout
    +-------+------------+--------------------------------------------------------------+------------------------------------+
    |       |            | *Vacanze di carnevale* (1 lezione)                           |                                    |
    +-------+------------+--------------------------------------------------------------+------------------------------------+
-   | 4     | Mar 12/3   | Grammatiche e linguaggi                                      | `PT 2`_ (2.1-4)                    |
+   | 4     | Mar 12/3   | Grammatiche e linguaggi                                      | `PT 2`_ (2.1-4) `H 4`_             |
    +       +            +                                                              +------------------------------------+
    | 5     | Gio 14/3   |                                                              | `PT 2`_ (2.5-7, 2.9-11)            |
    +-------+------------+--------------------------------------------------------------+------------------------------------+
@@ -98,7 +98,7 @@ indicato come *H* si riferisce agli `Handout
 
 .. _H 2: https://github.com/let-unimi/handouts/blob/0159d09ebbdeac82b03adc38fdc069a40f54cb1c/L02.ipynb
 .. _H 3: https://github.com/let-unimi/handouts/blob/d49c9c5c8c1937b22728e8eae3294fa14b66cbe8/L03.ipynb
-.. _H 4: https://github.com/let-unimi/handouts/blob/L04.ipynb
+.. _H 4: https://github.com/let-unimi/handouts/blob/b7f83cbad560f3930030231ffe86215d908f6f5c/L04.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 
