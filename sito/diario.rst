@@ -37,7 +37,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+-----------------------------------------+
    | 4     | Mar 12/3   | Grammatiche e linguaggi                                      | `PT 2`_ 1-3, `H 4`_                     |
    +       +            +                                                              +-----------------------------------------+
-   | 5     | Gio 14/3   |                                                              | `PT 2`_ 4, 9, 11 [5-8, 10, 12] `H 5`_   |
+   | 5     | Gio 14/3   |                                                              | `PT 2`_ 1-4, 9 [5-8, 10-12] `H 5`_      |
    +-------+------------+--------------------------------------------------------------+-----------------------------------------+
    | 6     | Mar 19/3   | Introduzione al parsing                                      | `PT 3`_                                 |
    +       +            +                                                              +                                         +
@@ -111,13 +111,13 @@ facoltative*.
      l'intero capitolo 5 di `The Python Tutorial`_),
 
    * se presenti (fuori parentesi): solo *le sezioni indicate sono parte del programma* (ad esempio, 
-     con "`PT 2`_ 4, 9, 11" si intende che del capitolo 2 di `Parsing Techniques. A Practical Guide`_
-     sono strettamente parte del programma solo le sezioni 4, 9 e 11),
+     con "`PT 2`_ 1-4, 9" si intende che del capitolo 2 di `Parsing Techniques. A Practical Guide`_
+     sono strettamente parte del programma solo le sezioni 1, 2, 3, 4 e 9),
 
    * se presenti tra parentesi quadre: le  *sezioni indicate sono letture caldamente raccomandate, 
-     ma facoltative* (ad esempio con "`PT 2`_ [5-8, 10, 12]" si intende che del capitolo 2 di 
+     ma facoltative* (ad esempio con "`PT 2`_ [5-8, 10-12]" si intende che del capitolo 2 di 
      `Parsing Techniques. A Practical Guide`_ è consigliata la lettura delle sezioni 5, 6, 7, 8, 
-     10 e 12).
+     10, 11 e 12).
 
 | 
 
