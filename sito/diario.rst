@@ -43,7 +43,7 @@ facoltative*.
    +       +            + Introduzione al parsing                                      +---------------------------------------------------------------------+
    | 7     | Gio 21/3   |                                                              | `PT 3`_ 3, 4.1-3, 5.1-5, 8 [4.4-5, 9-10]                            |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 8     | Mar 26/3   |                                                              | `PT 4`_ 2.1-2                                                       |
+   | 8     | Mar 26/3   |                                                              | `PT 4`_ 2.1-2; `H 8`_                                               |
    +       +            + Parsing, caso generale non direzionale (*CYK*)               +---------------------------------------------------------------------+
    | 9     | Gio 28/3   |                                                              | `PT 4`_ 2.3-7                                                       |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -126,6 +126,7 @@ facoltative*.
 .. _H 4: https://github.com/let-unimi/handouts/blob/b7f83cbad560f3930030231ffe86215d908f6f5c/L04.ipynb
 .. _H 5: https://github.com/let-unimi/handouts/blob/6af080b886246ec84a6996c394826620a2cf324a/L05.ipynb
 .. _H 6: https://github.com/let-unimi/handouts/blob/e8aa240ba6331e9d820d3d252964088433a5dee1/L06.ipynb
+.. _H 8: https://github.com/let-unimi/handouts/blob/b4ceba2b0e57f07c7c1d0f2e5c676e3d995e2ae0/L08.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 
