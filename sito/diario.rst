@@ -47,7 +47,7 @@ facoltative*.
    +       +            + Parsing, caso generale non direzionale (*CYK*)               +---------------------------------------------------------------------+
    | 9     | Gio 28/3   |                                                              | `PT 4`_ 2.3-7; `H 9`_                                               |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 10    | Mar 2/4    | Linguaggi regolari e automi a stati finiti                   | `PT 5`_ 2-5 [1, 7, 8, 9]                                            |
+   | 10    | Mar 2/4    | Linguaggi regolari e automi a stati finiti                   | `PT 5`_ 2-5 [1, 7, 8, 9]; `H 10`_                                   |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 11    | Gio 4/4    | Parsing Top-Down (*Recursive descent*, *Continuation*…)      | `PT 6`_                                                             |
    +       +            +                                                              +                                                                     +
@@ -128,6 +128,7 @@ facoltative*.
 .. _H 6: https://github.com/let-unimi/handouts/blob/e8aa240ba6331e9d820d3d252964088433a5dee1/L06.ipynb
 .. _H 8: https://github.com/let-unimi/handouts/blob/b4ceba2b0e57f07c7c1d0f2e5c676e3d995e2ae0/L08.ipynb
 .. _H 9: https://github.com/let-unimi/handouts/blob/d2f2e1ea4359ba55061c5ea2c346fd3197b32035/L09.ipynb
+.. _H 10: https://github.com/let-unimi/handouts/blob/f04a17e73f732802bca19c19002a1e18315877c5/L10.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 
