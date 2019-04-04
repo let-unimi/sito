@@ -49,7 +49,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 10    | Mar 2/4    | Linguaggi regolari e automi a stati finiti                   | `PT 5`_ 2-5 [1, 7, 8, 9]; `H 10`_                                   |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 11    | Gio 4/4    | Parsing Top-Down (*Recursive descent*, *Continuation*…)      | `PT 6`_  1-3, 5                                                     |
+   | 11    | Gio 4/4    | Parsing Top-Down (*Recursive descent*, *Continuation*…)      | `PT 6`_  1-3, 5; `H 11`_                                            |
    +       +            +                                                              +---------------------------------------------------------------------+
    | 12    | Mar 9/4    |                                                              |                                                                     |
    +       +            +                                                              +                                                                     +
@@ -129,6 +129,7 @@ facoltative*.
 .. _H 8: https://github.com/let-unimi/handouts/blob/b4ceba2b0e57f07c7c1d0f2e5c676e3d995e2ae0/L08.ipynb
 .. _H 9: https://github.com/let-unimi/handouts/blob/d2f2e1ea4359ba55061c5ea2c346fd3197b32035/L09.ipynb
 .. _H 10: https://github.com/let-unimi/handouts/blob/f04a17e73f732802bca19c19002a1e18315877c5/L10.ipynb
+.. _H 11: https://github.com/let-unimi/handouts/blob/20a4d48e675b63875498fe1896b49d909fbb9aad/L11.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 
