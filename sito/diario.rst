@@ -53,11 +53,11 @@ facoltative*.
    +       +            + *Continuation*)                                              +---------------------------------------------------------------------+
    | 12    | Mar 9/4    |                                                              | `PT 6`_  4, 6.1; `H 12`_                                            |
    +       +            +                                                              +---------------------------------------------------------------------+
-   | 13    | Gio 11/4   |                                                              | `PT 6`_  6.2; `H 12`_                                               |
+   | 13    | Gio 11/4   |                                                              | `PT 6`_  6.2; `H 13`_                                               |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 14    | Mar 16/4   | Parsing Bottom-Up                                            | `PT 7`_                                                             |
+   | 14    | Mar 16/4   | Parsing Bottom-Up                                            | `PT 7`_ 1; `H 14`_                                                  |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   |       |            | *Vacanze di Pasqua* (3 lezioni)                              |                                                                     |
+   |       |            | *Vacanze di Pasqua* (3 lezioni)                              | `Homework`_                                                         |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 15    | Mar 30/4   | Parsing deterministico Top-Down (*LL*)                       | `PT 8`_                                                             |
    +       +            +                                                              +                                                                     +
@@ -132,6 +132,8 @@ facoltative*.
 .. _H 11: https://github.com/let-unimi/handouts/blob/20a4d48e675b63875498fe1896b49d909fbb9aad/L11.ipynb
 .. _H 12: https://github.com/let-unimi/handouts/blob/14d87c1f84f879035fec61be78566b72b4312428/L12.ipynb
 .. _H 13: https://github.com/let-unimi/handouts/blob/6f26e57bc7a3cbcd11159a688cd3bd31fc68ff2c/L13.ipynb
+.. _H 14: https://github.com/let-unimi/handouts/blob/fb671dd9276cef39970475ca0120703c3220eae2/L14.ipynb
+.. _Homework: https://github.com/let-unimi/handouts/blob/master/MT-HW.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 
