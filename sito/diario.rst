@@ -59,9 +59,9 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    |       |            | *Vacanze di Pasqua* (3 lezioni)                              | `Homework`_                                                         |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 15    | Mar 30/4   | Parsing deterministico Top-Down (*LL*)                       | `PT 8`_                                                             |
-   +       +            +                                                              +                                                                     +
-   | 16    | Gio 2/5    |                                                              |                                                                     |
+   | 15    | Mar 30/4   | Parsing deterministico Top-Down (*LL*)                       | `PT 8`_ 1 - 2.2.1 [4]; `H 15`_                                      |
+   +       +            +                                                              +---------------------------------------------------------------------+
+   | 16    | Gio 2/5    |                                                              | `PT 8`_ 2.2.2 - 2.6 [5]                                             |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 17    | Mar 7/5    | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_                                                             |
    +       +            +                                                              +                                                                     +
@@ -134,6 +134,7 @@ facoltative*.
 .. _H 13: https://github.com/let-unimi/handouts/blob/6f26e57bc7a3cbcd11159a688cd3bd31fc68ff2c/L13.ipynb
 .. _H 14: https://github.com/let-unimi/handouts/blob/fb671dd9276cef39970475ca0120703c3220eae2/L14.ipynb
 .. _Homework: https://github.com/let-unimi/handouts/blob/master/MT-HW.ipynb
+.. _H 15: https://github.com/let-unimi/handouts/blob/59c64002275a1817698f6298f7b529cd658a0a61/L15.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 
