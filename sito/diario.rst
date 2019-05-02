@@ -11,9 +11,10 @@ alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
 di volta in volta dal docente).
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
-Tutorial <https://docs.python.org/3/tutorial/index.html>`_, mentre quello
+Tutorial <https://docs.python.org/3/tutorial/index.html>`__, quello
 indicato con *PT* si riferisce al libro di testo `Parsing Techniques. A
-Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_; il materiale
+Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_ e quello indicato con 
+*MCD* al libro `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__; il materiale
 indicato come *H* si riferisce agli `Handout
 <https://github.com/let-unimi/handouts/>`__ del docente; si veda la nota sui
 :ref:`numeri di sezione <numeridisezione>` che reca indicazioni su quali parti
@@ -59,11 +60,11 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    |       |            | *Vacanze di Pasqua* (3 lezioni)                              | `Homework`_                                                         |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 15    | Mar 30/4   | Parsing deterministico Top-Down (*LL*)                       | `PT 8`_ 1 - 2.2.1 [4]; `H 15`_                                      |
+   | 15    | Mar 30/4   | Parsing deterministico Top-Down (*LL*)                       | `PT 8`_ 1 - 2.2.1 [4], MCD 3.4.1 - 3.4.6; `H 15`_                   |
    +       +            +                                                              +---------------------------------------------------------------------+
    | 16    | Gio 2/5    |                                                              | `PT 8`_ 2.2.2 - 2.6 [5]; `H 16`_                                    |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 17    | Mar 7/5    | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_                                                             |
+   | 17    | Mar 7/5    | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ MCD 3.5.1 - 3.5.3                                           |
    +       +            +                                                              +                                                                     +
    | *17E* | *Mar 7/5*  |                                                              |                                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
