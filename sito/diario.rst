@@ -6,9 +6,7 @@ supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
 svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
 alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
-13:30, se accanto al numero della lezione compare il carattere *E* alla lezione
-è associata una *esercitazione* per cui l'orario viene esteso (come comunicato
-di volta in volta dal docente).
+13:30.
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
@@ -69,20 +67,14 @@ facoltative*.
    | 18    | Gio 9/5    | ANTLR                                                        |                                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 19    | Mar 14/5   | Alberi sintattici (annotati)                                 |                                                                     |
-   +       +            +                                                              +                                                                     +
-   | *19E* | *Mar 14/5* |                                                              |                                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 20    | Gio 16/5   | Transpilatori                                                |                                                                     |
    +       +            +                                                              +                                                                     +
    | 21    | Mar 21/5   |                                                              |                                                                     |
-   +       +            +                                                              +                                                                     +
-   | *21E* | *Mar 21/5* |                                                              |                                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 22    | Gio 23/5   | Interpreti                                                   |                                                                     |
    +       +            +                                                              +                                                                     +
    | 23    | Mar 28/5   |                                                              |                                                                     |
-   +       +            +                                                              +                                                                     +
-   | *23E* | *Mar 28/5* |                                                              |                                                                     |
    +       +            +                                                              +                                                                     +
    | 24    | Gio 30/5   |                                                              |                                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
