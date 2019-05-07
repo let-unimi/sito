@@ -30,7 +30,7 @@ extensions = [
 
 templates_path = ['_templates']
 
-source_parsers = {
+source_suffix = {
    '.md': 'recommonmark.parser.CommonMarkParser',
 }
 

@@ -11,7 +11,7 @@ alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
 di volta in volta dal docente).
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
-Tutorial <https://docs.python.org/3/tutorial/index.html>`__, quello
+Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
 indicato con *PT* si riferisce al libro di testo `Parsing Techniques. A
 Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_ e quello indicato con 
 *MCD* al libro `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__; il materiale
@@ -64,7 +64,7 @@ facoltative*.
    +       +            +                                                              +---------------------------------------------------------------------+
    | 16    | Gio 2/5    |                                                              | `PT 8`_ 2.2.2 - 2.6 [5]; `H 16`_                                    |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 17    | Mar 7/5    | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ MCD 3.5.1 - 3.5.3                                           |
+   | 17    | Mar 7/5    | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ 5 - 5.3, 9.5.5 [6.3]; MCD 3.5.1 - 3.5.3; `H 17`_            |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 18    | Gio 9/5    | ANTLR                                                        |                                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -135,6 +135,7 @@ facoltative*.
 .. _Homework: https://github.com/let-unimi/handouts/blob/master/MT-HW.ipynb
 .. _H 15: https://github.com/let-unimi/handouts/blob/59c64002275a1817698f6298f7b529cd658a0a61/L15.ipynb
 .. _H 16: https://github.com/let-unimi/handouts/blob/790844f0053fc3ca7b2ad74680dcd361424f6b5f/L16.ipynb
+.. _H 17: https://github.com/let-unimi/handouts/blob/dbb1460dfc8fe84762cba81b160b810ab8bd69ea/L17.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 
