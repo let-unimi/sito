@@ -26,13 +26,10 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinx.ext.githubpages',
+    'recommonmark'
 ]
 
 templates_path = ['_templates']
-
-source_suffix = {
-   '.md': 'recommonmark.parser.CommonMarkParser',
-}
 
 source_suffix = ['.rst', '.md']
 

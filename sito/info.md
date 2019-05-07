@@ -2,13 +2,12 @@
 
 ### Orario e modalità delle lezioni
 
-Le lezioni del corso si tengono il **martedì** alle ore **11:30 – 13:30** (o
-dalle **10:30** alle **14:30**, in caso di **esercitazioni**) in 
+Le lezioni del corso si tengono il **martedì** alle ore **11:30 – 13:30** in 
 [Aula 109](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=3>) 
 e il **giovedì** alle ore **11:30 – 13:30** in
 [Aula Alfa](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=79).
 
-Le lezioni (ed esercitazioni) sono **frontali**, nell'attuale manifesto degli
+Le lezioni sono **frontali**, nell'attuale manifesto degli
 studi il corso *non prevede un laboratorio*; per questa e [altre ottime
 ragioni](https://cs.brown.edu/courses/cs019/2018/laptop-policy.html) in classe è
 **vietato l'uso di laptop** e strumenti analoghi.
@@ -67,7 +66,7 @@ Riguardo agli aspetti legati alla traduzione:
   gli automi a stati finiti;
 * analisi grammaticale e *parsing*: tecniche generali non direzionali, tecniche
   generali direzionali (*top-down* e *bottom-up*), tecniche deterministiche
-  (grammatiche *LL* e *LR*);
+  (*LL* e *LR*);
 * interpreti transpilatori e traduttori: nozioni di base, grammatiche con
   attributi, pattern generali.
 
