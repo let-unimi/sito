@@ -36,5 +36,6 @@ pregati di prendere visione delle linee guida per il  `rapporto con gli studenti
    :maxdepth: 2
 
    info
+   progetti
    strumenti
    diario

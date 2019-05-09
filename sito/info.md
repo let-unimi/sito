@@ -98,7 +98,7 @@ L'insegnamento non prevede prove in itinere. La prova finale è costituita da un
 * la capacità di utilizzare uno strumento per la generazione automatica di
   analizzatori e/o traduttori.
 
-La prova orale può essere accompagnata da un **progetto** software da realizzare
+La prova orale può essere accompagnata da un [progetto](progetti.md) software da realizzare
 in modo autonomo, o in gruppo, come concordato assieme al docente nell'arco
 delle lezioni.
 

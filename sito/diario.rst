@@ -11,8 +11,10 @@ alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
 indicato con *PT* si riferisce al libro di testo `Parsing Techniques. A
-Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_ e quello indicato con 
-*MCD* al libro `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__; il materiale
+Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_, quello indicato con 
+*MCD* al libro `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__
+e quello indicato con *DAR* a `The Definitive ANTLR 4 Reference <https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__; 
+il materiale
 indicato come *H* si riferisce agli `Handout
 <https://github.com/let-unimi/handouts/>`__ del docente; si veda la nota sui
 :ref:`numeri di sezione <numeridisezione>` che reca indicazioni su quali parti
@@ -64,7 +66,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 17    | Mar 7/5    | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ 5 - 5.3, 9.5.5 [6.3]; MCD 3.5.1 - 3.5.3; `H 17`_            |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 18    | Gio 9/5    | ANTLR                                                        |                                                                     |
+   | 18    | Gio 9/5    | ANTLR                                                        | DAR 1 - 4; `H 18`_                                                  |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 19    | Mar 14/5   | Alberi sintattici (annotati)                                 |                                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -128,9 +130,9 @@ facoltative*.
 .. _H 15: https://github.com/let-unimi/handouts/blob/59c64002275a1817698f6298f7b529cd658a0a61/L15.ipynb
 .. _H 16: https://github.com/let-unimi/handouts/blob/790844f0053fc3ca7b2ad74680dcd361424f6b5f/L16.ipynb
 .. _H 17: https://github.com/let-unimi/handouts/blob/dbb1460dfc8fe84762cba81b160b810ab8bd69ea/L17.ipynb
+.. _H 18: https://github.com/let-unimi/handouts/blob/97db25c2effd32772f09ebf9dcd3faf9cf9fd8d0/L18.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
-
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
 .. _PT 3: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_3.pdf
 .. _PT 4: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_4.pdf
