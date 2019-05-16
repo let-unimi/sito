@@ -70,7 +70,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 19    | Mar 14/5   | Alberi sintattici e loro annotazione                         | [MCD 4, 5]; `H 19`_                                                 |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 20    | Gio 16/5   | Traduzioni orientate ai dati                                 |                                                                     |
+   | 20    | Gio 16/5   | Traduzioni (orientate ai dati)                               | `H 20`_                                                             |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 21    | Mar 21/5   | Transpilatori                                                |                                                                     |
    +       +            +                                                              +                                                                     +
@@ -132,6 +132,7 @@ facoltative*.
 .. _H 17: https://github.com/let-unimi/handouts/blob/dbb1460dfc8fe84762cba81b160b810ab8bd69ea/L17.ipynb
 .. _H 18: https://github.com/let-unimi/handouts/blob/97db25c2effd32772f09ebf9dcd3faf9cf9fd8d0/L18.ipynb
 .. _H 19: https://github.com/let-unimi/handouts/blob/42596d8afff14cbaf06abc0955e0f04f232b363d/L19.ipynb
+.. _H 20: https://github.com/let-unimi/handouts/blob/a6a5bfbfaf00ce849ad2433da3aa1dfe34301f8e/L20.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
