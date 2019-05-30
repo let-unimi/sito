@@ -80,9 +80,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+   
    | 24    | Gio 30/5   | Interpreti iterativi (*code threading*)                      | [MCD 7]; `H 24`_                                                    |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 25    | Mar 4/6    | *Presentazione dei progetti*                                 |                                                                     |
-   +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   
+  
 |
 
 .. admonition:: Nota bene
@@ -129,7 +127,7 @@ facoltative*.
 .. _H 21: https://github.com/let-unimi/handouts/blob/c2a9e2ad332d8d9a7d5f67a94965cf5a7a56ef87/L21.ipynb
 .. _H 22: https://github.com/let-unimi/handouts/blob/b90a4c13a05cebe37e848ec2494e0a96da8edd77/L22.ipynb
 .. _H 23: https://github.com/let-unimi/handouts/blob/c6c521e07384624fd30223ad91d5020626e73d09/L23.ipynb
-.. _H 24: https://github.com/let-unimi/handouts/
+.. _H 24: https://github.com/let-unimi/handouts/blob/45b948c061775031637bd2a172d8c885d0616505/L24.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
