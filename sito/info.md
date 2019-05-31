@@ -88,7 +88,9 @@ Di seguito sono elencate alcune conoscenze preliminari che è bene aver acquisit
 ### Modalità di valutazione
 
 L'insegnamento non prevede prove in itinere. La prova finale è costituita da un
-**colloquio orale** in cui il candidato deve dimostrare:
+**colloquio orale individuale** che verte su un **progetto software** sviluppato
+dallo studente, d'intesa col docente. Durante tale colloquio, il candidato deve
+dimostrare:
 
 * la conoscenza delle definizioni e delle nozioni teoriche fondamentali, e la
   comprensione del funzionamento dei vari algoritmi di analisi lessicale e
@@ -98,9 +100,31 @@ L'insegnamento non prevede prove in itinere. La prova finale è costituita da un
 * la capacità di utilizzare uno strumento per la generazione automatica di
   analizzatori e/o traduttori.
 
-La prova orale può essere accompagnata da un [progetto](progetti.md) software da realizzare
-in modo autonomo, o in gruppo, come concordato assieme al docente nell'arco
-delle lezioni.
+Nelle ultime settimane del corso il docente **pubblica** in un [apposito
+repository](https://github.com/let-unimi/progetti) i progetti *validi per l'anno
+accademico in corso*, essi sono divisi in due tipi denominati **A** e **B**:
+
+* I progetti di **Tipo A** (valutati sino ad un massimo di *30/30 e lode*) sono
+  in genere più complessi e richiedono l'implementazione di *specifiche fornite
+  dal docente* tramite lo sviluppo di *codice originale*.
+
+* I progetti di **Tipo B** (valutati sino ad un massimo di *24/30*) sono in
+  genere più semplici, si basano sull'implementazione di *algoritmi noti*
+  (descritti in capitoli di libro, o articoli scientifici), nel contesto di una
+  presentazione, o modulo didattico, simile agli *handout* del corso.
+
+Ad ogni appello, **lo studente si accorda individualmente con il docente** circa
+il progetto che intende svolgere (scelta che *non può modificare* per la durata
+dell'appello in corso). I progetti che condurranno al superamento dell'esame da
+parte di un certo numero di studenti (stabilito e reso noto nella descrizione
+del progetto stesso) *cessano d'essere validi*; i progetti sono assegnati agli
+studenti d'intesa col docente *seguendo l'ordine con cui sono richiesti* dagli
+studenti (fino al termine della validità, oltre il quale non possono più essere
+scelti). Gli studenti che *non superano l'esame* possono nuovamente accordarsi
+con il docente per perfezionare il progetto già svolto, o svolgerne uno diverso,
+in occasione di un successivo appello (fatta salva la regola del salto d'appello
+per le insufficienze gravi).
+
 
 ### Bibliografia
 
