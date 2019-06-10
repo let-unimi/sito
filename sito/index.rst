@@ -7,7 +7,7 @@ Linguaggi e traduttori
 
 
 Questo è il sito dell'insegnamento di `Linguaggi e traduttori
-<http://www.ccdinfmi.unimi.it/it/corsiDiStudio/2019/F1Xof2/default/F1X-90/F1X-90.19.1/>`_,
+<http://old.ccdinfmi.unimi.it/it/corsiDiStudio/2019/F1Xof2/default/F1X-90/F1X-90.19.1/>`_,
 tenuto da `Massimo Santini <https://santini.di.unimi.it/>`_ del `Dipartimento di
 Informatica <http://www.di.unimi.it/>`_ dell'`Univeristà degli Studi di Milano
 <https://www.unimi.it/>`_.
@@ -20,10 +20,10 @@ Da questa pagina potete accedere a:
 * :doc:`strumenti di supporto <strumenti>` costituiti da dispense e software,
 
 Gli **avvisi** relativi al corso sono raggiungibili a partire dalla pagina degli
-`avvisi <http://www.ccdinfmi.unimi.it/it/avvisi/>`_ (con particolare riferimento
-alle sezioni `insegnamenti <http://www.ccdinfmi.unimi.it/it/avvisi/CATINS/>`_ ed
-`esami <http://www.ccdinfmi.unimi.it/it/avvisi/CATEXA/>`_) del sito del `Collegio
-Didattico Dipartimentale di Informatica <http://www.ccdinfmi.unimi.it/>`_
+`avvisi <http://old.ccdinfmi.unimi.it/it/avvisi/>`_ (con particolare riferimento
+alle sezioni `insegnamenti <http://old.ccdinfmi.unimi.it/it/avvisi/CATINS/>`_ ed
+`esami <http://old.ccdinfmi.unimi.it/it/avvisi/CATEXA/>`_) del sito del `Collegio
+Didattico Dipartimentale di Informatica <http://old.ccdinfmi.unimi.it/>`_
 
 Il **ricevimento studenti** è per appuntamento, gli studenti interessati sono
 pregati di prendere visione delle linee guida per il  `rapporto con gli studenti
