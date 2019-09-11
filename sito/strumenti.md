@@ -2,15 +2,12 @@
 
 Questa pagina contiene alcune indicazioni circa il [linguaggio di
 programmazione](#python) e lo strumento di [generazione automatica di
-analizzatori lessicali e sintattici](#antlr) adottati per il corso; in futuro
-conterrà anche del materiale specifico di supporto al corso, come alcune
-dispense integrative e strumenti software sviluppati dal docente.
+analizzatori lessicali e sintattici](#antlr) adottati per il corso.
 
 Si osserva che, data la *maturità culturale* che ci si attende dagli studenti
 che frequentano un insegnamento complementare, il docente **non intende fornire
 alcun supporto** all'installazione, configurazione e uso pratico degli strumenti
 qui descritti.
-
 
 ### Python
 
@@ -32,14 +29,11 @@ del linguaggio.
 <img src="https://img.shields.io/badge/LibLET%40UniMI-Playground-blue.svg"/>
 </a></p>
 
-Il docente sta sviluppando una [libreria di
-supporto](https://pypi.org/project/liblet/) al corso la cui
-[documentazione](https://liblet.readthedocs.io/) è in costante aggiornamento;
+Ha sviluppato una [libreria di
+supporto](https://pypi.org/project/liblet/) al corsa che, assieme alla sua 
+[documentazione](https://liblet.readthedocs.io/), è in costante aggiornamento;
 chi intende utilizzare tale libreria può procedere secondo le [istruzioni di
-installazione](https://liblet.readthedocs.io/en/latest/installation.html), oppure fare uso del *playground* che si può accedere tramite il bottone all'inizio di questa sezione.
-
-
-
+installazione](https://liblet.readthedocs.io/en/latest/installation.html).
 
 ### ANTLR
 
@@ -60,6 +54,3 @@ il [repository della versione Python
 3](https://github.com/jszheng/py3antlr4book) dei programmi di esempio contenuti
 nel libro "[The Definitive ANTLR 4
 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference)".
-
-
-

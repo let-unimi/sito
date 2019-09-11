@@ -1,2 +1,2 @@
-recommonmark>=0.4.0
-Sphinx>=2.0.0
+recommonmark>=0.6.0
+sphinx>=2.2.0
