@@ -2,11 +2,6 @@
 
 ### Orario e modalità delle lezioni
 
-Le lezioni del corso si tengono il **martedì** alle ore **11:30 – 13:30** in 
-[Aula 109](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=3>) 
-e il **giovedì** alle ore **11:30 – 13:30** in
-[Aula Alfa](https://orari-be.divsi.unimi.it/EasyRoom//index.php?content=gestore_aree_pubblico&cercaSede=79).
-
 Le lezioni sono **frontali**, nell'attuale manifesto degli
 studi il corso *non prevede un laboratorio*; per questa e [altre ottime
 ragioni](https://cs.brown.edu/courses/cs019/2018/laptop-policy.html) in classe è

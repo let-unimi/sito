@@ -1,6 +1,13 @@
 Diario delle lezioni
 ====================
 
+.. admonition:: Nota bene
+   :class: alert alert-warning
+
+   Il contenuto di questa pagina si riferisce all'A.A. 2018/19, verrà
+   aggiornato al corrente A.A. in occasione dell'inizio del secondo 
+   semestre.
+
 Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
 supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
