@@ -16,8 +16,8 @@ Da questa pagina potete accedere a:
 
 * :doc:`informazioni generali <info>` sul corso (in particolare, le `modalità di valutazione <info.html#modalita-di-valutazione>`__),
 * :doc:`diario delle lezioni <diario>` con i riferimenti agli argomenti
-  trattati e agli strumenti utilizzati.
-* :doc:`strumenti di supporto <strumenti>` costituiti da dispense e software,
+  trattati e agli strumenti utilizzati,
+* :doc:`strumenti di supporto <strumenti>` costituiti da dispense e software.
 
 Il **ricevimento studenti** è per appuntamento, gli studenti interessati sono
 pregati di prendere visione delle linee guida per il  `rapporto con gli studenti

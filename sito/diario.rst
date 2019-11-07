@@ -5,7 +5,7 @@ Diario delle lezioni
    :class: alert alert-warning
 
    Il contenuto di questa pagina si riferisce all'A.A. 2018/19, verrà
-   aggiornato al corrente A.A. in occasione dell'inizio del secondo 
+   aggiornato al corrente A.A. in occasione dell'inizio del secondo
    semestre.
 
 Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
@@ -18,9 +18,9 @@ alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
 indicato con *PT* si riferisce al libro di testo `Parsing Techniques. A
-Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_, quello indicato con 
+Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_, quello indicato con
 *MCD* al libro `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__
-e quello indicato con *DAR* a `The Definitive ANTLR 4 Reference <https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__; 
+e quello indicato con *DAR* a `The Definitive ANTLR 4 Reference <https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__;
 il materiale
 indicato come *H* si riferisce agli `Handout
 <https://github.com/let-unimi/handouts/>`__ del docente; si veda la nota sui
@@ -30,7 +30,7 @@ facoltative*.
 
 |
 
-.. table:: 
+.. table::
 
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | Num   | Data       | Argomento                                                    | Materiale didattico                                                 |
@@ -82,35 +82,35 @@ facoltative*.
    | 21    | Mar 21/5   | Transpilatori (verso JavaScript e l'AST di Python)           | DAR 8; `H 21`_                                                      |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 22    | Gio 23/5   | Symbol table (scope di blocco e controllo dei tipi)          | `H 22`_                                                             |
-   +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+   
+   +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 23    | Mar 28/5   | Interpreti ricorsivi (e funzioni)                            | [MCD 6]; `H 23`_                                                    |
-   +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+   
+   +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 24    | Gio 30/5   | Interpreti iterativi (*code threading*)                      | [MCD 7]; `H 24`_                                                    |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-  
+
 |
 
 .. admonition:: Nota bene
    :class: alert alert-secondary
 
    Accanto a ciascun riferimento che reca un numero di *capitolo* possono trovarsi
-   dei *numeri di sezione* essi sono da intendersi nel seguente modo: 
+   dei *numeri di sezione* essi sono da intendersi nel seguente modo:
 
    .. _numeridisezione:
 
-   * se assenti: l'*intero capitolo è parte del programma* (ad esempio, con "`TPT 5`_" si intende 
+   * se assenti: l'*intero capitolo è parte del programma* (ad esempio, con "`TPT 5`_" si intende
      l'intero capitolo 5 di `The Python Tutorial`_),
 
-   * se presenti (fuori parentesi): solo *le sezioni indicate sono parte del programma* (ad esempio, 
+   * se presenti (fuori parentesi): solo *le sezioni indicate sono parte del programma* (ad esempio,
      con "`PT 2`_ 1-4, 9" si intende che del capitolo 2 di `Parsing Techniques. A Practical Guide`_
      sono strettamente parte del programma solo le sezioni 1, 2, 3, 4 e 9),
 
-   * se presenti tra parentesi quadre: le  *sezioni indicate sono letture caldamente raccomandate, 
-     ma facoltative* (ad esempio con "`PT 2`_ [5-8, 10-12]" si intende che del capitolo 2 di 
-     `Parsing Techniques. A Practical Guide`_ è consigliata la lettura delle sezioni 5, 6, 7, 8, 
+   * se presenti tra parentesi quadre: le  *sezioni indicate sono letture caldamente raccomandate,
+     ma facoltative* (ad esempio con "`PT 2`_ [5-8, 10-12]" si intende che del capitolo 2 di
+     `Parsing Techniques. A Practical Guide`_ è consigliata la lettura delle sezioni 5, 6, 7, 8,
      10, 11 e 12).
 
-| 
+|
 
 .. _H 2: https://github.com/let-unimi/handouts/blob/0159d09ebbdeac82b03adc38fdc069a40f54cb1c/L02.ipynb
 .. _H 3: https://github.com/let-unimi/handouts/blob/d49c9c5c8c1937b22728e8eae3294fa14b66cbe8/L03.ipynb
