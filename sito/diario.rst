@@ -1,13 +1,6 @@
 Diario delle lezioni
 ====================
 
-.. admonition:: Nota bene
-   :class: alert alert-warning
-
-   Il contenuto di questa pagina si riferisce all'A.A. 2018/19, verrà
-   aggiornato al corrente A.A. in occasione dell'inizio del secondo
-   semestre.
-
 Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
 supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
@@ -35,10 +28,13 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | Num   | Data       | Argomento                                                    | Materiale didattico                                                 |
    +=======+============+==============================================================+=====================================================================+
-   | 1     | Mar 25/2   | Obiettivi e struttura del corso                              | `PT 1`_                                                             |
+   | 1     | Mar 3/3    | Obiettivi e struttura del corso                              | `PT 1`_                                                             |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 2     | Gio 28/2   | Introduzione a Python                                        | `TPT 3`_; `TPT 4`_ 1-6; `H 2`_                                      |
+   | 2     | Gio 5/3    | Introduzione a Python                                        | `TPT 3`_; `TPT 4`_ 1-6                                              |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
+
+..
+   | 2     | Gio 5/3    | Introduzione a Python                                        | `TPT 3`_; `TPT 4`_ 1-6; `H 2`_                                      |
    | 3     | Mar 05/3   | Strutture dati ed algoritmi di base per alberi e grafi       | `TPT 5`_; `TPT 9`_ 1-4; `H 3`_                                      |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    |       |            | *Vacanze di carnevale* (1 lezione)                           |                                                                     |
