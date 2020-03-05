@@ -6,7 +6,15 @@ supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
 svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
 alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
-13:30.
+13:30. Alcuni minuti prima di ciascuna lezione questa pagina sarà aggiornata con
+le **indicazioni necessarie ad assistere allo streaming** della lezione stessa.
+
+.. admonition:: Streaming
+   :class: alert alert-warning
+
+   La prossima lezione in streaming si terrà giovedì 12 marzo alle ore 11:30
+   all'indirizzo che verrà specificato in questo box alcuni minuti prima del suo
+   inizio.
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello

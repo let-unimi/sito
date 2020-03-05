@@ -2,10 +2,15 @@
 
 ### Orario e modalità delle lezioni
 
-Le lezioni sono **frontali**, nell'attuale manifesto degli
-studi il corso *non prevede un laboratorio*; per questa e [altre ottime
-ragioni](https://cs.brown.edu/courses/cs019/2018/laptop-policy.html) in classe è
-**vietato l'uso di laptop** e strumenti analoghi.
+Dato le [misure urgenti per la comunità
+universitaria](https://www.unimi.it/it/coronavirus-misure-urgenti-la-comunita-universitaria),
+fino a prossima notizia questo insegnamento sarà erogato in modalità **didattica
+a distanza**, il [diario delle lezioni](/diario) sarà aggiornato prima di
+ciascuna lezione con le indicazioni utili a poter assistere allo streaming della
+medesima, che sarà diffuso tramite un [canale YouTube
+dedicato](http://bit.ly/3cB9snQ). Nell'attuale manifesto degli studi il corso
+*non prevede un laboratorio*.
+
 
 ### Obiettivi dell’insegnamento
 
