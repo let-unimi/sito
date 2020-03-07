@@ -2,7 +2,7 @@
 
 ### Orario e modalità delle lezioni
 
-Dato le [misure urgenti per la comunità
+Date le [misure urgenti per la comunità
 universitaria](https://www.unimi.it/it/coronavirus-misure-urgenti-la-comunita-universitaria),
 fino a prossima notizia questo insegnamento sarà erogato in modalità **didattica
 a distanza**, il [diario delle lezioni](/diario) sarà aggiornato prima di
