@@ -12,9 +12,7 @@ le **indicazioni necessarie ad assistere allo streaming** della lezione stessa.
 .. admonition:: Streaming
    :class: alert alert-warning
 
-   La prossima lezione in streaming si terrà giovedì 12 marzo alle ore 11:30
-   all'indirizzo che verrà specificato in questo box alcuni minuti prima del suo
-   inizio.
+   La lezione di oggi giovedì 12 marzo inizierà alle ore 11:30 al seguente link `https://youtu.be/YY16ii7oeac <https://youtu.be/YY16ii7oeac>`_
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
