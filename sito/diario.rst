@@ -9,10 +9,17 @@ alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
 13:30. Alcuni minuti prima di ciascuna lezione questa pagina sarà aggiornata con
 le **indicazioni necessarie ad assistere allo streaming** della lezione stessa.
 
-.. admonition:: Streaming
+.. admonition:: Canale Telegram
    :class: alert alert-warning
 
-   La lezione di oggi giovedì 12 marzo inizierà alle ore 11:30 al seguente link `https://youtu.be/YY16ii7oeac <https://youtu.be/YY16ii7oeac>`_
+   Dalla prossima lezione, in via sperimentale, l'annuncio relativo al link ove
+   reperire lo stream della lezione e la chat interattiva con gli studenti
+   saranno gestite tramite un **canale privato Telegram**; gli studenti interessati
+   che non avessero ricevuto il link per l'adesione al canale sono pregati di
+   *contattare il docente per email*; gli studenti che viceversa ritenessero
+   questa soluzione *non accettabile*, sono parimenti pregati di segnalarlo per
+   email al docente.
+
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
