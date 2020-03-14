@@ -23,6 +23,13 @@ capitoli da "[The Python Tutorial](https://docs.python.org/3/tutorial/index.html
 reperibile sul sito della [documentazione ufficiale](https://docs.python.org/3/)
 del linguaggio.
 
+Uno strumento utile per sperimentare in modo più agile l'uso del linguaggio e
+della libreria del corso è [Jupyter](https://jupyter.org/); gli
+[handout](https://github.com/let-unimi/handouts/) del corso (redatti durante le
+lezioni) sono realizzati tramite tale strumento.
+
+Uno strumento  utile (e che )
+
 #### LibLET
 
 <p><a href="https://mybinder.org/v2/gh/let-unimi/liblet/master?filepath=Playground.ipynb" rel="some text">
