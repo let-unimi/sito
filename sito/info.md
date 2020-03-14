@@ -1,4 +1,4 @@
-## Informazioni sul corso
+## Informazioni sull'insegnamento
 
 ### Orario e modalità delle lezioni
 
@@ -8,7 +8,7 @@ fino a prossima notizia questo insegnamento sarà erogato in modalità **didatti
 a distanza**, la pagina della [lezione](/lezione) sarà aggiornato prima di
 ciascuna lezione con le indicazioni utili a poter assistere allo streaming della
 medesima, che sarà diffuso tramite un [canale YouTube
-dedicato](http://bit.ly/3cB9snQ). Nell'attuale manifesto degli studi il corso
+dedicato](http://bit.ly/3cB9snQ). Nell'attuale manifesto degli studi l'insegnamento
 *non prevede un laboratorio*.
 
 
@@ -77,12 +77,12 @@ Di seguito sono elencate alcune conoscenze preliminari che è bene aver acquisit
 
 * tecniche di dimostrazione, con particolare riguardo a quella per *induzione*
   [dagli insegnamenti di "Matematica del discreto" e/o "Logica matematica"];
-* programmazione, con particolare riguardo alla *ricorsione* [dal corso di
+* programmazione, con particolare riguardo alla *ricorsione* [dall'insegnamento di
   "Programmazione"];
 * strutture dati elementari (liste, pile, code e dizionari); *grafi* e *alberi*
-  e relativi *algoritmi di visita* (ampiezza, profondità…) [dal corso di
+  e relativi *algoritmi di visita* (ampiezza, profondità…) [dall'insegnamento di
   "Algoritmi e strutture dati"];
-* aspetti di base dei linguaggi formali [dal corso "Linguaggi formali e
+* aspetti di base dei linguaggi formali [dall'insegnamento "Linguaggi formali e
   automi"].
 
 ### Modalità di valutazione
@@ -100,7 +100,7 @@ dimostrare:
 * la capacità di utilizzare uno strumento per la generazione automatica di
   analizzatori e/o traduttori.
 
-Nelle ultime settimane del corso il docente **pubblica** in un [apposito
+Nelle ultime settimane il docente **pubblica** in un [apposito
 repository](https://github.com/let-unimi/progetti) i progetti *validi per l'anno
 accademico in corso*, essi sono divisi in due tipi denominati **A** e **B**:
 
@@ -111,7 +111,7 @@ accademico in corso*, essi sono divisi in due tipi denominati **A** e **B**:
 * I progetti di **Tipo B** (valutati sino ad un massimo di *24/30*) sono in
   genere più semplici, si basano sull'implementazione di *algoritmi noti*
   (descritti in capitoli di libro, o articoli scientifici), nel contesto di una
-  presentazione, o modulo didattico, simile agli *handout* del corso.
+  presentazione, o modulo didattico, simile agli *handout* dell'insegnamento.
 
 Ad ogni appello, **lo studente si accorda individualmente con il docente** circa
 il progetto che intende svolgere (scelta che *non può modificare* per la durata
@@ -128,7 +128,7 @@ per le insufficienze gravi).
 
 ### Bibliografia
 
-I testi di riferimento per la parte teorica ed algoritmica del corso sono:
+I testi di riferimento per la parte teorica ed algoritmica dell'insegnamento sono:
 
 * Dick Grune e Ceriel J. H. Jacobs (2008),
   [Parsing Techniques. A Practical Guide](https://doi.org/10.1007/978-0-387-68954-8), *Springer*, New York;
@@ -140,7 +140,7 @@ La maggior parte del materiale sarà tratta dai primi capitoli del primo libro
 (di cui è possibile scaricare una versione PDF gratuita dalla rete dell'Ateneo,
 nei termini della licenza d'uso stabilita dall'editore); il secondo testo tratta
 aspetti più pratici e legati allo strumento di costruzione automatica di
-analizzatori lessicali e sintattici utilizzato nel corso.
+analizzatori lessicali e sintattici utilizzato nell'insegnamento.
 
 Come approfondimento individuale, con maggior orientamento alla parte di
 costruzione di interpreti e compilatori, si consiglia
@@ -155,7 +155,7 @@ analizzatori lessicali e sintattici, il testo di riferimento è:
   [The Definitive ANTLR 4 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference), *The Pragmatic Bookshelf*.
 
 Un testo di riferimento per i linguaggi formali, utile come approfondimento, o
-per colmare eventuali lacune rimaste dal corso di "Linguaggi formali", è il
+per colmare eventuali lacune rimaste dall'insegnamento di "Linguaggi formali", è il
 classico:
 
 * John E. Hopcroft, Rajeev Motwani, e Jeffrey D. Ullman (2007),

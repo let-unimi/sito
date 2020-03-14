@@ -2,7 +2,7 @@
 
 Questa pagina contiene alcune indicazioni circa il [linguaggio di
 programmazione](#python) e lo strumento di [generazione automatica di
-analizzatori lessicali e sintattici](#antlr) adottati per il corso.
+analizzatori lessicali e sintattici](#antlr) adottati per l'insegnamento.
 
 Si osserva che, data la *maturità culturale* che ci si attende dagli studenti
 che frequentano un insegnamento complementare, il docente **non intende fornire
@@ -24,8 +24,8 @@ reperibile sul sito della [documentazione ufficiale](https://docs.python.org/3/)
 del linguaggio.
 
 Uno strumento utile per sperimentare in modo più agile l'uso del linguaggio e
-della libreria del corso è [Jupyter](https://jupyter.org/); gli
-[handout](https://github.com/let-unimi/handouts/) del corso (redatti durante le
+della libreria dell'insegnamento è [Jupyter](https://jupyter.org/); gli
+[handout](https://github.com/let-unimi/handouts/) dell'insegnamento (redatti durante le
 lezioni) sono realizzati tramite tale strumento.
 
 Uno strumento  utile (e che )
@@ -50,7 +50,7 @@ Lo strumento scelto è [ANTLR](http://www.antlr.org/), originariamente ideato e
 sviluppato da [Terence Parr](https://parrt.cs.usfca.edu/).
 
 La documentazione necessaria al suo uso (oltre ai libri indicati nella
-[bibliografia](info#bibliografia) delle informazioni generali sul corso) può
+[bibliografia](info#bibliografia) delle informazioni generali sull'insegnamento) può
 essere reperita gratuitamente nel [repository
 ufficiale](https://github.com/antlr/antlr4/blob/master/doc/index%2emd), in
 particolare può risultare utile la lettura della guida "[Getting
