@@ -9,16 +9,17 @@ alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
 13:30. Alcuni minuti prima di ciascuna lezione questa pagina sarà aggiornata con
 le **indicazioni necessarie ad assistere allo streaming** della lezione stessa.
 
-.. admonition:: Canale Telegram
-   :class: alert alert-warning
+..
+  .. admonition:: Canale Telegram
+    :class: alert alert-warning
 
-   Dalla prossima lezione, in via sperimentale, l'annuncio relativo al link ove
-   reperire lo stream della lezione e la chat interattiva con gli studenti
-   saranno gestite tramite un **canale privato Telegram**; gli studenti interessati
-   che non avessero ricevuto il link per l'adesione al canale sono pregati di
-   *contattare il docente per email*; gli studenti che viceversa ritenessero
-   questa soluzione *non accettabile*, sono parimenti pregati di segnalarlo per
-   email al docente.
+    Dalla prossima lezione, in via sperimentale, l'annuncio relativo al link ove
+    reperire lo stream della lezione e la chat interattiva con gli studenti
+    saranno gestite tramite un **canale privato Telegram**; gli studenti interessati
+    che non avessero ricevuto il link per l'adesione al canale sono pregati di
+    *contattare il docente per email*; gli studenti che viceversa ritenessero
+    questa soluzione *non accettabile*, sono parimenti pregati di segnalarlo per
+    email al docente.
 
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
@@ -43,7 +44,7 @@ facoltative*.
    +=======+============+==============================================================+=====================================================================+
    | 1     | Gio 12/3   | Obiettivi e struttura dell'insegnamento                      | `PT 1`_                                                             |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 2     | Mar 17/3   | Introduzione a Python                                        | `TPT 3`_; `TPT 4`_ 1-6                                              |
+   | 2     | Mar 17/3   | Introduzione a Python                                        | `TPT 3`_; `TPT 4`_ 1-6; `H 2`_                                      |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
 ..
@@ -121,29 +122,7 @@ facoltative*.
 
 |
 
-.. _H 2: https://github.com/let-unimi/handouts/blob/0159d09ebbdeac82b03adc38fdc069a40f54cb1c/L02.ipynb
-.. _H 3: https://github.com/let-unimi/handouts/blob/d49c9c5c8c1937b22728e8eae3294fa14b66cbe8/L03.ipynb
-.. _H 4: https://github.com/let-unimi/handouts/blob/b7f83cbad560f3930030231ffe86215d908f6f5c/L04.ipynb
-.. _H 5: https://github.com/let-unimi/handouts/blob/6af080b886246ec84a6996c394826620a2cf324a/L05.ipynb
-.. _H 6: https://github.com/let-unimi/handouts/blob/e8aa240ba6331e9d820d3d252964088433a5dee1/L06.ipynb
-.. _H 8: https://github.com/let-unimi/handouts/blob/b4ceba2b0e57f07c7c1d0f2e5c676e3d995e2ae0/L08.ipynb
-.. _H 9: https://github.com/let-unimi/handouts/blob/d2f2e1ea4359ba55061c5ea2c346fd3197b32035/L09.ipynb
-.. _H 10: https://github.com/let-unimi/handouts/blob/f04a17e73f732802bca19c19002a1e18315877c5/L10.ipynb
-.. _H 11: https://github.com/let-unimi/handouts/blob/20a4d48e675b63875498fe1896b49d909fbb9aad/L11.ipynb
-.. _H 12: https://github.com/let-unimi/handouts/blob/14d87c1f84f879035fec61be78566b72b4312428/L12.ipynb
-.. _H 13: https://github.com/let-unimi/handouts/blob/6f26e57bc7a3cbcd11159a688cd3bd31fc68ff2c/L13.ipynb
-.. _H 14: https://github.com/let-unimi/handouts/blob/fb671dd9276cef39970475ca0120703c3220eae2/L14.ipynb
-.. _Homework: https://github.com/let-unimi/handouts/blob/master/MT-HW.ipynb
-.. _H 15: https://github.com/let-unimi/handouts/blob/59c64002275a1817698f6298f7b529cd658a0a61/L15.ipynb
-.. _H 16: https://github.com/let-unimi/handouts/blob/790844f0053fc3ca7b2ad74680dcd361424f6b5f/L16.ipynb
-.. _H 17: https://github.com/let-unimi/handouts/blob/dbb1460dfc8fe84762cba81b160b810ab8bd69ea/L17.ipynb
-.. _H 18: https://github.com/let-unimi/handouts/blob/97db25c2effd32772f09ebf9dcd3faf9cf9fd8d0/L18.ipynb
-.. _H 19: https://github.com/let-unimi/handouts/blob/42596d8afff14cbaf06abc0955e0f04f232b363d/L19.ipynb
-.. _H 20: https://github.com/let-unimi/handouts/blob/a6a5bfbfaf00ce849ad2433da3aa1dfe34301f8e/L20.ipynb
-.. _H 21: https://github.com/let-unimi/handouts/blob/c2a9e2ad332d8d9a7d5f67a94965cf5a7a56ef87/L21.ipynb
-.. _H 22: https://github.com/let-unimi/handouts/blob/b90a4c13a05cebe37e848ec2494e0a96da8edd77/L22.ipynb
-.. _H 23: https://github.com/let-unimi/handouts/blob/c6c521e07384624fd30223ad91d5020626e73d09/L23.ipynb
-.. _H 24: https://github.com/let-unimi/handouts/blob/45b948c061775031637bd2a172d8c885d0616505/L24.ipynb
+.. _H 2: https://github.com/let-unimi/handouts/blob/2f784316dc9f3d93b8abea2a84acb6403e175854/L02.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
