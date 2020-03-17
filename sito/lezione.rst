@@ -6,7 +6,6 @@ l'orario ufficiale).
 
 .. raw:: html
 
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/4rsKCPKV8lE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/iPQcy0HAVGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-La `registrazione della lezione precedente <https://youtu.be/YY16ii7oeac>`__ è accessibile per alcuni giorni.
-
+La `registrazione della lezione precedente <https://youtu.be/4rsKCPKV8lE>`__ è accessibile per alcuni giorni.
