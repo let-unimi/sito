@@ -46,7 +46,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 2     | Mar 17/3   | Introduzione a Python                                        | `TPT 3`_; `TPT 4`_ 1-6; `H 2`_                                      |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 3     | Gio 19/3   | Strutture dati ed algoritmi di base per alberi e grafi       | `TPT 5`_; `TPT 9`_ 1-4;                                             |
+   | 3     | Gio 19/3   | Strutture dati ed algoritmi di base per alberi e grafi       | `TPT 5`_; `TPT 9`_ 1-4; `H 2`_                                      |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
 ..
@@ -125,6 +125,7 @@ facoltative*.
 |
 
 .. _H 2: https://github.com/let-unimi/handouts/blob/2f784316dc9f3d93b8abea2a84acb6403e175854/L02.ipynb
+.. _H 3: https://github.com/let-unimi/handouts/blob/50e770fcfcba844ef11da170a4ba084fef6e4c99/L03.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
