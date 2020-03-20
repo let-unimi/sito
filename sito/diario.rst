@@ -8,9 +8,9 @@ svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
 alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
 13:30.
 
-Nel `canale YouTube <http://bit.ly/3cB9snQ>`__ dell'insegnamento disponibili sia la *playlist*
-delle registrazioni delle `lezioni <https://www.youtube.com/playlist?list=PLVmguzp13C1HOgCatbK2xQhqGjySXxlPn>`__,
-che quella delle `"pillole" <https://www.youtube.com/playlist?list=PLVmguzp13C1ED4yUBu3_nT9huYuRKAgba>`__.
+Nel `canale YouTube <http://bit.ly/3cB9snQ>`__ dell'insegnamento disponibili sia
+la *playlist* delle registrazioni delle `lezioni <https://bit.ly/2J5ihsN>`__,
+che quella delle `"pillole" <https://bit.ly/2U4m7Zw>`__.
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello

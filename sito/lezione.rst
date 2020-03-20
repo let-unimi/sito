@@ -13,7 +13,7 @@ l'orario ufficiale).
 
 |
 
-Dalla pagina del :doc:`diario delle lezioni <diario>` si possono raggiungere sia la *playlist*
-delle registrazioni delle `lezioni <https://www.youtube.com/playlist?list=PLVmguzp13C1HOgCatbK2xQhqGjySXxlPn>`__,
-che quella delle `"pillole" <https://www.youtube.com/playlist?list=PLVmguzp13C1ED4yUBu3_nT9huYuRKAgba>`__.
+Dalla pagina del :doc:`diario delle lezioni <diario>` si possono raggiungere sia
+la *playlist* delle registrazioni delle `lezioni <https://bit.ly/2J5ihsN>`__,
+che quella delle `"pillole" <https://bit.ly/2U4m7Zw>`__.
 
