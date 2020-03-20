@@ -6,21 +6,11 @@ supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
 svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
 alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
-13:30. Alcuni minuti prima di ciascuna lezione questa pagina sarà aggiornata con
-le **indicazioni necessarie ad assistere allo streaming** della lezione stessa.
+13:30.
 
-..
-  .. admonition:: Canale Telegram
-    :class: alert alert-warning
-
-    Dalla prossima lezione, in via sperimentale, l'annuncio relativo al link ove
-    reperire lo stream della lezione e la chat interattiva con gli studenti
-    saranno gestite tramite un **canale privato Telegram**; gli studenti interessati
-    che non avessero ricevuto il link per l'adesione al canale sono pregati di
-    *contattare il docente per email*; gli studenti che viceversa ritenessero
-    questa soluzione *non accettabile*, sono parimenti pregati di segnalarlo per
-    email al docente.
-
+Nel `canale YouTube <http://bit.ly/3cB9snQ>`__ dell'insegnamento disponibili sia la *playlist*
+delle registrazioni delle `lezioni <https://www.youtube.com/playlist?list=PLVmguzp13C1HOgCatbK2xQhqGjySXxlPn>`__,
+che quella delle `"pillole" <https://www.youtube.com/playlist?list=PLVmguzp13C1ED4yUBu3_nT9huYuRKAgba>`__.
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
