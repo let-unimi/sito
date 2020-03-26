@@ -40,7 +40,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 4     | Mer 25/3   |                                                              | `PT 2`_ 1-3; `H 4`_                                                 |
    +       +            + Grammatiche e linguaggi                                      +---------------------------------------------------------------------+
-   | 5     | Gio 26/3   |                                                              | `PT 2`_ 3, 4, [5-8], 9, [10-12];                                    |
+   | 5     | Gio 26/3   |                                                              | `PT 2`_ 3, 4, [5-8], 9, [10-12]; `H 5`_                             |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
 ..
@@ -113,6 +113,7 @@ facoltative*.
 .. _H 2: https://github.com/let-unimi/handouts/blob/2f784316dc9f3d93b8abea2a84acb6403e175854/L02.ipynb
 .. _H 3: https://github.com/let-unimi/handouts/blob/50e770fcfcba844ef11da170a4ba084fef6e4c99/L03.ipynb
 .. _H 4: https://github.com/let-unimi/handouts/blob/1044eca47bf481ad124b219a05524f386cd0d836/L04.ipynb
+.. _H 5: https://github.com/let-unimi/handouts/blob/05fea097a5fc168342d3eeb438804b836567fe44/L05.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
