@@ -44,7 +44,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 6     | Mar 31/3   |                                                              | `PT 3`_ 1, 2; `H 6`_                                                |
    +       +            + Introduzione al parsing                                      +---------------------------------------------------------------------+
-   | 7     | Gio 2/4    |                                                              | `PT 3`_ 3, 4.1-3, [4.4-5], 5.1-5, 8, [9, 10]                        |
+   | 7     | Gio 2/4    |                                                              | `PT 3`_ 3, 4.1-3, [4.4-5], 5.1-5, 8, [9, 10]; `H 7`_                |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
 ..
@@ -115,6 +115,7 @@ facoltative*.
 .. _H 4: https://github.com/let-unimi/handouts/blob/1044eca47bf481ad124b219a05524f386cd0d836/L04.ipynb
 .. _H 5: https://github.com/let-unimi/handouts/blob/05fea097a5fc168342d3eeb438804b836567fe44/L05.ipynb
 .. _H 6: https://github.com/let-unimi/handouts/blob/2b28ef96902ce534701c4233faa70a08c65f165e/L06.ipynb
+.. _H 7: https://github.com/let-unimi/handouts/blob/4ea9b6740b51de79b905e278f95e6e110d6b8eac/L07.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
