@@ -121,7 +121,7 @@ facoltative*.
 .. _H 8: https://github.com/let-unimi/handouts/blob/f581e79b0a18f7072cad454a68696c98b69283eb/L08.ipynb
 .. _H 9: https://github.com/let-unimi/handouts/blob/9998d99152b4e452f5bd7efd592180a05cd36070/L09.ipynb
 .. _H 10: https://github.com/let-unimi/handouts/blob/f0f61d064f44bbbdba78e46ece643bb04c34f98d/L10.ipynb
-.. _H 11: https://github.com/let-unimi/handouts/blob/fa4ccceca07cfc2ca7ce495b608db7b7431b58cf/L11.ipynb
+.. _H 11: https://github.com/let-unimi/handouts/blob/f6baaa717a1f9339caafde5523b1aa8a093db13f/L11.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
