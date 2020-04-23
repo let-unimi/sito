@@ -52,7 +52,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 10    | Mar 21/4   | Linguaggi regolari e automi a stati finiti                   | `PT 5`_ [1] 2-3; `H 10`_                                            |
    +       +            +                                                              +---------------------------------------------------------------------+
-   |       | Gio 23/4   |                                                              | `PT 5`_ 4-5 [7-9];                                                  |
+   | 11    | Gio 23/4   |                                                              | `PT 5`_ 4-5 [7-9]; `H 11`_                                          |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
 ..
@@ -121,6 +121,7 @@ facoltative*.
 .. _H 8: https://github.com/let-unimi/handouts/blob/f581e79b0a18f7072cad454a68696c98b69283eb/L08.ipynb
 .. _H 9: https://github.com/let-unimi/handouts/blob/9998d99152b4e452f5bd7efd592180a05cd36070/L09.ipynb
 .. _H 10: https://github.com/let-unimi/handouts/blob/f0f61d064f44bbbdba78e46ece643bb04c34f98d/L10.ipynb
+.. _H 11: https://github.com/let-unimi/handouts/blob/b56dd2719d12a0c34afd026888226316de100d9c/L11.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
