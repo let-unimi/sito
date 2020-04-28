@@ -54,7 +54,7 @@ facoltative*.
    +       +            +                                                              +---------------------------------------------------------------------+
    | 11    | Gio 23/4   |                                                              | `PT 5`_ 4-5 [7-9]; `H 11`_                                          |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 12    | Gio 28/4   | Parsing Top-Down (*Pushdown Automata*, *Recursive descent*)  | `PT 6`_  1-3, 5;                                                    |
+   | 12    | Gio 28/4   | Parsing Top-Down (*Pushdown Automata*, *Recursive descent*)  | `PT 6`_  1-3, 5; `H 12`_                                             |
    +       +            +                                                              +---------------------------------------------------------------------+
    | 13    | Mar 30/4   |                                                              | `PT 6`_  4, 6.1;                                                    |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -120,6 +120,7 @@ facoltative*.
 .. _H 9: https://github.com/let-unimi/handouts/blob/9998d99152b4e452f5bd7efd592180a05cd36070/L09.ipynb
 .. _H 10: https://github.com/let-unimi/handouts/blob/f0f61d064f44bbbdba78e46ece643bb04c34f98d/L10.ipynb
 .. _H 11: https://github.com/let-unimi/handouts/blob/f6baaa717a1f9339caafde5523b1aa8a093db13f/L11.ipynb
+.. _H 12: https://github.com/let-unimi/handouts/blob/8e57a44c2aa2438235aed3426fdc8eacd448fd9a/L12.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
