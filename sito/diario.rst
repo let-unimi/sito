@@ -58,7 +58,7 @@ facoltative*.
    +       +            +                                                              +---------------------------------------------------------------------+
    | 13    | Gio 30/4   |                                                              | `PT 6`_  4, 6.1; `H 13`_                                            |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 14    | Mar 5/5    | Parsing Bottom-Up                                            | `PT 7`_ 1;                                                          |
+   | 14    | Mar 5/5    | Parsing Bottom-Up                                            | `PT 7`_ 1; `H 14`_                                                  |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 15    | Gio 7/5    | Parsing deterministico Top-Down (*LL*)                       | `PT 8`_ 1 - 2.2.1 [4], MCD 3.4.1 - 3.4.6;                           |
    +       +            +                                                              +---------------------------------------------------------------------+
@@ -130,6 +130,7 @@ facoltative*.
 .. _H 11: https://github.com/let-unimi/handouts/blob/f6baaa717a1f9339caafde5523b1aa8a093db13f/L11.ipynb
 .. _H 12: https://github.com/let-unimi/handouts/blob/8e57a44c2aa2438235aed3426fdc8eacd448fd9a/L12.ipynb
 .. _H 13: https://github.com/let-unimi/handouts/blob/bb2e380c42b90ab9d8c21d10ad439427b9c2eb9b/L13.ipynb
+.. _H 14: https://github.com/let-unimi/handouts/blob/7efb8fedfc3b7ba45c8d9a8fa867e51c63f279da/L14.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
