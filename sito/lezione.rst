@@ -6,7 +6,7 @@ l'orario ufficiale).
 
 .. raw:: html
 
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/8e2MNykkFg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/rCXn9g6Ucto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 |
 
