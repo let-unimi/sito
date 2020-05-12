@@ -87,6 +87,17 @@ Di seguito sono elencate alcune conoscenze preliminari che è bene aver acquisit
 
 ### Modalità di valutazione
 
+<div style="background-color: lightyellow;">
+
+Dato che le modalità d'esame non prevedono prove pratiche in presenza esse
+immutate per il periodo in cui è impedito lo svolgimento di esami in presenza
+presso le sedi dell'Ateneo. L'unico accorgimento è che la discussione orale si
+svolgerà secondo le indicazioni dell'Ateneo per gli [esami orali a
+distanza](https://www.unimi.it/it/studiare/frequentare-un-corso-di-laurea/seguire-il-percorso-di-studi/esami/esami-distanza-faq-gli-studenti/esami-orali-distanza).
+
+</div>
+
+
 L'insegnamento non prevede prove in itinere. La prova finale è costituita da un
 **colloquio orale individuale** che verte su un **progetto software** sviluppato
 dallo studente, d'intesa col docente. Durante tale colloquio, il candidato deve
