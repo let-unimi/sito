@@ -64,7 +64,7 @@ facoltative*.
    +       +            +                                                              +---------------------------------------------------------------------+
    | 16    | Mar 12/5   |                                                              | `PT 8`_ 2.2.2 - 2.6 [5]; `H 16`_                                    |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 17    | Gio 15/5   | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ 5 - 5.3, 9.5.5 [6.3]; MCD 3.5.1 - 3.5.3;                    |
+   | 17    | Gio 15/5   | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ 5 - 5.3, 9.5.5 [6.3]; MCD 3.5.1 - 3.5.3; `H 17`_            |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
 ..
@@ -123,6 +123,7 @@ facoltative*.
 .. _H 14: https://github.com/let-unimi/handouts/blob/7efb8fedfc3b7ba45c8d9a8fa867e51c63f279da/L14.ipynb
 .. _H 15: https://github.com/let-unimi/handouts/blob/6f382008b97f9319d7034de046e001b5ff42867a/L15.ipynb
 .. _H 16: https://github.com/let-unimi/handouts/blob/ac11bbe84fe43a73ecbe8a7da34d0cca135d16ee/L16.ipynb
+.. _H 17: https://github.com/let-unimi/handouts/blob/20904a20a26b2b65a7609565a8cd6081daa62708/L17.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
