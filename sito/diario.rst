@@ -66,7 +66,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 17    | Gio 15/5   | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ 5 - 5.3, 9.5.5 [6.3]; MCD 3.5.1 - 3.5.3; `H 17`_            |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 18    | Mar 19/5   | Introduzione a ANTLR                                         | DAR 1 - 4;                                                          |
+   | 18    | Mar 19/5   | Introduzione a ANTLR                                         | DAR 1 - 4; `H 17`_                                                  |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 19    | Gio 21/5   | Alberi sintattici e loro annotazione                         | [MCD 4, 5];                                                         |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -124,6 +124,7 @@ facoltative*.
 .. _H 15: https://github.com/let-unimi/handouts/blob/6f382008b97f9319d7034de046e001b5ff42867a/L15.ipynb
 .. _H 16: https://github.com/let-unimi/handouts/blob/ac11bbe84fe43a73ecbe8a7da34d0cca135d16ee/L16.ipynb
 .. _H 17: https://github.com/let-unimi/handouts/blob/20904a20a26b2b65a7609565a8cd6081daa62708/L17.ipynb
+.. _H 18: https://github.com/let-unimi/handouts/blob/b28ae0118f7c067866ded43e4d37f5e67b1ebb50/L18.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
