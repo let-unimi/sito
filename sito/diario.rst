@@ -70,9 +70,9 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 19    | Gio 21/5   | Alberi sintattici e loro annotazione                         | [MCD 4, 5]; `H 19`_                                                 |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 20    | Mar 26/5   | Traduzioni (orientate ai dati)                               |                                                                     |
+   | 20    | Mar 26/5   | Traduzioni (orientate ai dati)                               | DAR 8; `H 20`_                                                      |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 21    | Gio 28/5   | Transpilatori (verso JavaScript e l'AST di Python)           | DAR 8;                                                              |
+   | 21    | Gio 28/5   | Transpilatori (verso JavaScript e l'AST di Python)           |                                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
 ..
@@ -126,6 +126,7 @@ facoltative*.
 .. _H 17: https://github.com/let-unimi/handouts/blob/20904a20a26b2b65a7609565a8cd6081daa62708/L17.ipynb
 .. _H 18: https://github.com/let-unimi/handouts/blob/b28ae0118f7c067866ded43e4d37f5e67b1ebb50/L18.ipynb
 .. _H 19: https://github.com/let-unimi/handouts/blob/42ea1f8353320893e5a824dd74edf1ef971abb0e/L19.ipynb
+.. _H 20: https://github.com/let-unimi/handouts/blob/99006832369322b7e417dab78fb56026a86c802c/L20.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
