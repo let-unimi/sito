@@ -6,10 +6,9 @@ l'orario ufficiale).
 
 .. raw:: html
 
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/H_n6MvjmkWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/Lv58gSrd4zA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ..
-  23 https://youtu.be/Lv58gSrd4zA
   24 https://youtu.be/dHVBUd3wp_c|
 
 Dalla pagina del :doc:`diario delle lezioni <diario>` si possono raggiungere sia

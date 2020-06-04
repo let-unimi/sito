@@ -74,7 +74,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 21    | Gio 28/5   | Transpilatori (verso JavaScript e l'AST di Python)           | `H 21`_                                                             |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 22    | Gio 4/6    | Symbol table (cenni su *scoping* e *tipi*)                   | DAR 8.4 [MCD 2.11];                                                 |
+   | 22    | Gio 4/6    | Symbol table (cenni su *scoping* e *tipi*)                   | DAR 8.4 [MCD 2.11]; `H 22`_                                         |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 23    | Mar 9/6    | Interpreti ricorsivi (e funzioni)                            | [MCD 6.1-2];                                                        |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -125,6 +125,7 @@ facoltative*.
 .. _H 19: https://github.com/let-unimi/handouts/blob/42ea1f8353320893e5a824dd74edf1ef971abb0e/L19.ipynb
 .. _H 20: https://github.com/let-unimi/handouts/blob/99006832369322b7e417dab78fb56026a86c802c/L20.ipynb
 .. _H 21: https://github.com/let-unimi/handouts/blob/e9d460b2bce1b92fe36dd0e8c6bf2d4509bc2c56/L21.ipynb
+.. _H 22: https://github.com/let-unimi/handouts/blob/ba124c109d2a0e9baf06982ee0473cb35fd9fdb3/L22.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
