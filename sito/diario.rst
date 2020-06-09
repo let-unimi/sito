@@ -76,7 +76,7 @@ facoltative*.
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 22    | Gio 4/6    | Symbol table (cenni su *scoping* e *tipi*)                   | DAR 8.4 [MCD 2.11]; `H 22`_                                         |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-   | 23    | Mar 9/6    | Interpreti ricorsivi (e funzioni)                            | [MCD 6.1-2];                                                        |
+   | 23    | Mar 9/6    | Interpreti ricorsivi (e funzioni)                            | [MCD 6.1-2]; `H 23`_                                                |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
    | 24    | Gio 11/6   | Interpreti iterativi (*code threading*)                      | [MCD 5.1, 6.3];                                                     |
    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -126,6 +126,7 @@ facoltative*.
 .. _H 20: https://github.com/let-unimi/handouts/blob/99006832369322b7e417dab78fb56026a86c802c/L20.ipynb
 .. _H 21: https://github.com/let-unimi/handouts/blob/e9d460b2bce1b92fe36dd0e8c6bf2d4509bc2c56/L21.ipynb
 .. _H 22: https://github.com/let-unimi/handouts/blob/ba124c109d2a0e9baf06982ee0473cb35fd9fdb3/L22.ipynb
+.. _H 23: https://github.com/let-unimi/handouts/blob/84b0aa08a1d5c404c666d43f0a4e5f12a543fed5/L23.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
