@@ -16,7 +16,7 @@ Da questa pagina potete accedere a:
 
 * :doc:`informazioni generali <info>` sull'insegnamento (in particolare, le `modalità di valutazione <info.html#modalita-di-valutazione>`__),
 * :doc:`diario delle lezioni <diario>` con i riferimenti agli argomenti
-  trattati e la pagina della :doc:`prossima lezione <lezione>`,
+  trattati,
 * :doc:`software utile <strumenti>` per lo svolgimento della parte pratica.
 
 Il **ricevimento studenti** è per appuntamento, gli studenti interessati sono
@@ -31,6 +31,5 @@ pregati di prendere visione delle linee guida per il  `rapporto con gli studenti
 
    info
    strumenti
-   lezione
    diario
 
