@@ -8,7 +8,7 @@ fino a prossima notizia questo insegnamento è stato erogato in modalità
 **didattica a distanza**. Nell'attuale manifesto degli studi l'insegnamento *non
 prevede un laboratorio*.
 
-### Obiettivi dell’insegnamento
+### Obiettivi dell'insegnamento
 
 La teoria dei **linguaggi** formali è una delle discipline centrali
 dell'informatica; l'uso delle *grammatiche* da essa studiate non solo permette
@@ -86,7 +86,7 @@ Di seguito sono elencate alcune conoscenze preliminari che è bene aver acquisit
 <div style="background-color: lightyellow;">
 
 Dato che le modalità d'esame non prevedono prove pratiche in presenza esse
-immutate per il periodo in cui è impedito lo svolgimento di esami in presenza
+rimangono immutate per il periodo in cui è impedito lo svolgimento di esami in presenza
 presso le sedi dell'Ateneo. L'unico accorgimento è che la discussione orale si
 svolgerà secondo le indicazioni dell'Ateneo per gli [esami orali a
 distanza](https://www.unimi.it/it/studiare/frequentare-un-corso-di-laurea/seguire-il-percorso-di-studi/esami/esami-distanza-faq-gli-studenti/esami-orali-distanza).
