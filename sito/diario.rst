@@ -1,119 +1,111 @@
 Diario delle lezioni
 ====================
 
-.. admonition:: Nota bene
-   :class: alert alert-success
+Potete trovare informazioni sulle modalità d'esame e sull'elenco degli argomenti
+che costituiscono il programma nella pagina di :doc:`info`,
 
-   Il contenuto di questa pagina verrà aggiornato al prossimo A.A. in occasione dell'inizio del primo
-   semestre nel marzo 2021.
+Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
+supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
+costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
+svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
+alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
+13:30.
 
-..
-  Potete trovare informazioni sulle modalità d'esame e sull'elenco degli argomenti
-  che costituiscono il programma nella pagina di :doc:`info`,
+Nel `canale YouTube <http://bit.ly/3cB9snQ>`__ dell'insegnamento è disponibile
+la *playlist* delle registrazioni delle `lezioni <http://bit.ly/3seGlhb>`__.
 
-  Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
-  supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
-  costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
-  svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
-  alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
-  13:30.
+Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
+Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
+indicato con *PT* si riferisce al libro di testo `Parsing Techniques. A
+Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_, quello indicato con
+*MCD* al libro `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__
+e quello indicato con *DAR* a `The Definitive ANTLR 4 Reference <https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__;
+il materiale
+indicato come *H* si riferisce agli `Handout
+<https://github.com/let-unimi/handouts/>`__ del docente; si veda la nota sui
+:ref:`numeri di sezione <numeridisezione>` che reca indicazioni su quali parti
+del materiale sono **parte del programma** e quali *letture consigliate, ma
+facoltative*.
 
-  Nel `canale YouTube <http://bit.ly/3cB9snQ>`__ dell'insegnamento disponibili sia
-  la *playlist* delle registrazioni delle `lezioni <https://bit.ly/2J5ihsN>`__,
-  che quella delle `"pillole" <https://bit.ly/2U4m7Zw>`__.
-
-  Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
-  Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
-  indicato con *PT* si riferisce al libro di testo `Parsing Techniques. A
-  Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_, quello indicato con
-  *MCD* al libro `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__
-  e quello indicato con *DAR* a `The Definitive ANTLR 4 Reference <https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__;
-  il materiale
-  indicato come *H* si riferisce agli `Handout
-  <https://github.com/let-unimi/handouts/>`__ del docente; si veda la nota sui
-  :ref:`numeri di sezione <numeridisezione>` che reca indicazioni su quali parti
-  del materiale sono **parte del programma** e quali *letture consigliate, ma
-  facoltative*.
-
-  |
+|
 
   .. table::
 
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
     | Num   | Data       | Argomento                                                    | Materiale didattico                                                 |
     +=======+============+==============================================================+=====================================================================+
-    | 1     | Gio 12/3   | Obiettivi e struttura dell'insegnamento                      | `PT 1`_                                                             |
+    | 1     | Gio  4/3   | Obiettivi e struttura dell'insegnamento                      |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 2     | Mar 17/3   | Introduzione a Python                                        | `TPT 3`_; `TPT 4`_ 1-6; `H 2`_                                      |
+    | 2     | Mar  9/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 3     | Gio 19/3   | Strutture dati ed algoritmi di base per alberi e grafi       | `TPT 5`_; `TPT 9`_ 1-4; `H 3`_                                      |
+    | 3     | Gio 11/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 4     | Mer 25/3   |                                                              | `PT 2`_ 1-3; `H 4`_                                                 |
-    +       +            + Grammatiche e linguaggi                                      +---------------------------------------------------------------------+
-    | 5     | Gio 26/3   |                                                              | `PT 2`_ 3, 4, [5-8], 9, [10-12]; `H 5`_                             |
+    | 4     | Mar 16/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 6     | Mar 31/3   |                                                              | `PT 3`_ 1, 2; `H 6`_                                                |
-    +       +            + Introduzione al parsing                                      +---------------------------------------------------------------------+
-    | 7     | Gio 2/4    |                                                              | `PT 3`_ 3, 4.1-3, [4.4-5], 5.1-5, 8, [9, 10]; `H 7`_                |
+    | 5     | Gio 18/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 8     | Mar 7/4    |                                                              | `PT 4`_ 2.1-2; `H 8`_                                               |
-    +       +            + Parsing, caso generale non direzionale (*CYK*)               +---------------------------------------------------------------------+
-    | 9     | Gio 16/4   |                                                              | `PT 4`_ 2.3-7; `H 9`_                                               |
+    | 6     | Mar 23/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 10    | Mar 21/4   | Linguaggi regolari e automi a stati finiti                   | `PT 5`_ [1] 2-3; `H 10`_                                            |
-    +       +            +                                                              +---------------------------------------------------------------------+
-    | 11    | Gio 23/4   |                                                              | `PT 5`_ 4-5 [7-9]; `H 11`_                                          |
+    | 7     | Gio 25/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 12    | Mar 28/4   | Parsing Top-Down (*Pushdown Automata*, *Recursive descent*)  | `PT 6`_  1-3, 5; `H 12`_                                            |
-    +       +            +                                                              +---------------------------------------------------------------------+
-    | 13    | Gio 30/4   |                                                              | `PT 6`_  4, 6.1; `H 13`_                                            |
+    | 8     | Mar 30/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 14    | Mar 5/5    | Parsing Bottom-Up                                            | `PT 7`_ 1; `H 14`_                                                  |
+    | 9     | Mar 13/4   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 15    | Gio 7/5    | Parsing deterministico Top-Down (*LL*)                       | `PT 8`_ 1 - 2.2.1 [4], MCD 3.4.1 - 3.4.6; `H 15`_                   |
-    +       +            +                                                              +---------------------------------------------------------------------+
-    | 16    | Mar 12/5   |                                                              | `PT 8`_ 2.2.2 - 2.6 [5]; `H 16`_                                    |
+    | 10    | Gio 15/4   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 17    | Gio 14/5   | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ 5 - 5.3, 9.5.5 [6.3]; MCD 3.5.1 - 3.5.3; `H 17`_            |
+    | 11    | Mar 20/4   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 18    | Mar 19/5   | Introduzione a ANTLR                                         | DAR 1 - 4; `H 18`_                                                  |
+    | 12    | Gio 22/4   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 19    | Gio 21/5   | Alberi sintattici e loro annotazione                         | [MCD 4, 5]; `H 19`_                                                 |
+    | 13    | Mar 27/4   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 20    | Mar 26/5   | Traduzioni (orientate ai dati)                               | DAR 8; `H 20`_                                                      |
+    | 14    | Gio 29/4   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 21    | Gio 28/5   | Transpilatori (verso JavaScript e l'AST di Python)           | `H 21`_                                                             |
+    | 15    | Mar  4/5   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 22    | Gio 4/6    | Symbol table (cenni su *scoping* e *tipi*)                   | DAR 8.4 [MCD 2.11]; `H 22`_                                         |
+    | 16    | Gio  6/5   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 23    | Mar 9/6    | Interpreti ricorsivi (e funzioni)                            | [MCD 6.1-2]; `H 23`_                                                |
+    | 17    | Mar 11/5   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 24    | Gio 11/6   | Interpreti iterativi (*code threading*)                      | [MCD 5.1, 6.3]; `H 24`_                                             |
+    | 18    | Gio 13/5   |                                                              |                                                                     |
+    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
+    | 19    | Mar 18/5   |                                                              |                                                                     |
+    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
+    | 20    | Gio 20/5   |                                                              |                                                                     |
+    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
+    | 21    | Mar 25/5   |                                                              |                                                                     |
+    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
+    | 22    | Gio 27/5   |                                                              |                                                                     |
+    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
+    | 23    | Mar  1/6   |                                                              |                                                                     |
+    +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
+    | 24    | Gio  3/6   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
 
-  |
+|
 
-  .. admonition:: Nota bene
-    :class: alert alert-secondary
+.. admonition:: Nota bene
+  :class: alert alert-secondary
 
-    Accanto a ciascun riferimento che reca un numero di *capitolo* possono trovarsi
-    dei *numeri di sezione* essi sono da intendersi nel seguente modo:
+  Accanto a ciascun riferimento che reca un numero di *capitolo* possono trovarsi
+  dei *numeri di sezione* essi sono da intendersi nel seguente modo:
 
-    .. _numeridisezione:
+  .. _numeridisezione:
 
-    * se assenti: l'*intero capitolo è parte del programma* (ad esempio, con "`TPT 5`_" si intende
-      l'intero capitolo 5 di `The Python Tutorial`_),
+  * se assenti: l'*intero capitolo è parte del programma* (ad esempio, con "`TPT 5`_" si intende
+    l'intero capitolo 5 di `The Python Tutorial`_),
 
-    * se presenti (fuori parentesi): solo *le sezioni indicate sono parte del programma* (ad esempio,
-      con "`PT 2`_ 1-4, 9" si intende che del capitolo 2 di `Parsing Techniques. A Practical Guide`_
-      sono strettamente parte del programma solo le sezioni 1, 2, 3, 4 e 9),
+  * se presenti (fuori parentesi): solo *le sezioni indicate sono parte del programma* (ad esempio,
+    con "`PT 2`_ 1-4, 9" si intende che del capitolo 2 di `Parsing Techniques. A Practical Guide`_
+    sono strettamente parte del programma solo le sezioni 1, 2, 3, 4 e 9),
 
-    * se presenti tra parentesi quadre: le  *sezioni indicate sono letture caldamente raccomandate,
-      ma facoltative* (ad esempio con "`PT 2`_ [5-8, 10-12]" si intende che del capitolo 2 di
-      `Parsing Techniques. A Practical Guide`_ è consigliata la lettura delle sezioni 5, 6, 7, 8,
-      10, 11 e 12).
+  * se presenti tra parentesi quadre: le  *sezioni indicate sono letture caldamente raccomandate,
+    ma facoltative* (ad esempio con "`PT 2`_ [5-8, 10-12]" si intende che del capitolo 2 di
+    `Parsing Techniques. A Practical Guide`_ è consigliata la lettura delle sezioni 5, 6, 7, 8,
+    10, 11 e 12).
 
-  |
+|
 
   .. _H 2: https://github.com/let-unimi/handouts/blob/2f784316dc9f3d93b8abea2a84acb6403e175854/L02.ipynb
   .. _H 3: https://github.com/let-unimi/handouts/blob/50e770fcfcba844ef11da170a4ba084fef6e4c99/L03.ipynb
