@@ -135,45 +135,54 @@ per le insufficienze gravi).
 
 ### Bibliografia
 
-I testi di riferimento per la parte teorica ed algoritmica dell'insegnamento sono:
+I **libri di testo** per la parte teorica ed algoritmica dell'insegnamento sono:
 
 * Dick Grune e Ceriel J. H. Jacobs (2008),
-  [Parsing Techniques. A Practical Guide](https://doi.org/10.1007/978-0-387-68954-8), *Springer*, New York;
+  [Parsing Techniques. A Practical Guide](https://doi.org/10.1007/978-0-387-68954-8), *Springer-Verlag*, New York;
+
+* Torben Ægidius Mogensen (2017),
+  [Introduction to Compiler Design](https://doi.org/10.1007/978-3-319-66966-3), *Springer International Publishing* AG.
+
+È possibile scaricare una versione PDF gratuita (nei termini della licenza d'uso
+stabilita dall'editore) del primo testo dalla rete dell'Ateneo, mentre del
+secondo testo esiste una versione preliminare gratuita intitolata [Basics of
+Compiler Design](http://hjemmesider.diku.dk/~torbenm/Basics/) e disponibile sul
+sito dell'autore.
+
+Per quanto concerne ANTLR, lo strumento di costruzione automatica di
+analizzatori lessicali e sintattici, i testi di riferimento (considerati *letture
+utili, ma facoltative*) sono:
+
+* Terence Parr (2013),
+  [The Definitive ANTLR 4 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference), *The Pragmatic Bookshelf*;
 
 * Terence Parr (2009),
   [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns), *The Pragmatic Bookshelf*.
 
-La maggior parte del materiale sarà tratta dai primi capitoli del primo libro
-(di cui è possibile scaricare una versione PDF gratuita dalla rete dell'Ateneo,
-nei termini della licenza d'uso stabilita dall'editore); il secondo testo tratta
-aspetti più pratici e legati allo strumento di costruzione automatica di
-analizzatori lessicali e sintattici utilizzato nell'insegnamento.
-
-Come approfondimento individuale, con maggior orientamento alla parte di
-costruzione di interpreti e compilatori, si consiglia
-
-* Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs e Koen Langendoen (2012)
-  [Modern Compiler Design](https://doi.org/10.1007/978-1-4614-4699-6), *Springer*, New York;
-
-mentre per quanto concerne lo strumento di costruzione automatica di
-analizzatori lessicali e sintattici, il testo di riferimento è:
-
-* Terence Parr (2013),
-  [The Definitive ANTLR 4 Reference](https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference), *The Pragmatic Bookshelf*.
-
-Un testo di riferimento per i linguaggi formali, utile come approfondimento, o
-per colmare eventuali lacune rimaste dall'insegnamento di "Linguaggi formali", è il
-classico:
+Come **approfondimento** (del tutto *facoltativo*, o utile a colmare eventuali
+lacune rimaste dall'insegnamento di "Linguaggi formali"), un testo classico è
 
 * John E. Hopcroft, Rajeev Motwani, e Jeffrey D. Ullman (2007),
-  [Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html), *Pearson*.
+  [Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html), *Pearson*;
 
-Ci sono validi testi in italiano che riguardano sia la parte dei linguaggi
-formali che quella di analisi e traduzione, come:
+nello stesso spirito, testi più approfonditi sulla costruzione di compilatori sono
 
-* Stefano Crespi Reghizzi, Luca Breveglieri e Angelo Morzenti (2015), [Linguaggi formali e compilazione](https://www.editrice-esculapio.com/s-crespi-reghizzi-l-breveglieri-a-morzenti-linguaggi-formali-e-compilazione/), *Esculapio*;
+* Keith Cooper Linda Torczon (2011),
+  [Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0),
+  *Morgan Kaufmann*;
 
-* John E. Hopcroft, Rajeev Motwani,  e Jeffrey D. Ullman [Automi, linguaggi e calcolabilità](https://www.pearson.it/opera/pearson/0-6576-automi_linguaggi_e_calcolabilita), *Pearson*;
+* Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs e Koen Langendoen (2012)
+  [Modern Compiler Design](https://doi.org/10.1007/978-1-4614-4699-6), *Springer*, New York.
 
-sono suggeriti solo per chi avesse seri problemi con la lingua inglese, per
-tutti gli altri studenti si raccomanda l'uso dei volumi sopra citati.
+Infine, solo per chi avesse seri problemi con la lingua inglese, ci sono validi
+testi *in italiano* che riguardano sia la parte dei linguaggi formali come
+
+* Stefano Crespi Reghizzi, Luca Breveglieri e Angelo Morzenti (2015),
+  [Linguaggi formali e compilazione](https://www.editrice-esculapio.com/s-crespi-reghizzi-l-breveglieri-a-morzenti-linguaggi-formali-e-compilazione/),
+  *Esculapio*;
+
+che quella per la costruzione dei compilatori
+
+* John E. Hopcroft, Rajeev Motwani,  e Jeffrey D. Ullman
+  [Automi, linguaggi e calcolabilità](https://www.pearson.it/opera/pearson/0-6576-automi_linguaggi_e_calcolabilita),
+  *Pearson*.
