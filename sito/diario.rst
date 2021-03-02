@@ -11,8 +11,16 @@ svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
 alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
 13:30.
 
-Nel `canale YouTube <http://bit.ly/3cB9snQ>`__ dell'insegnamento è disponibile
-la *playlist* delle registrazioni delle `lezioni <http://bit.ly/3seGlhb>`__.
+.. admonition:: Lezioni sincrone e registrate
+   :class: alert alert-secondary
+
+   È possibile assistere alle lezioni in modalità **sincrona** tramite l'invito
+   Zoom `http://bit.ly/lezioni-let-unimi <http://bit.ly/lezioni-let-unimi>`__
+   (a cui possono collegarsi gli utenti registrati con email
+   :samp:`@studenti.unimi.it`); nel `canale YouTube <http://bit.ly/3cB9snQ>`__
+   dell'insegnamento è inoltre disponibile la *playlist* delle **registrazioni**
+   delle `lezioni <http://bit.ly/3seGlhb>`__ (e la diretta della lezione
+   corrente).
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
