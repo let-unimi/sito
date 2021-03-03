@@ -23,13 +23,14 @@ alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
    corrente).
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
-Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello
-indicato con *PT* si riferisce al libro di testo `Parsing Techniques. A
-Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_, quello indicato con
-*MCD* al libro `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__
-e quello indicato con *DAR* a `The Definitive ANTLR 4 Reference <https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__;
-il materiale
-indicato come *H* si riferisce agli `Handout
+Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello indicato con
+*PT* si riferisce al libro di testo `Parsing Techniques. A Practical Guide
+<https://doi.org/10.1007/978-0-387-68954-8>`_, quello indicato con *ICD* al
+libro `Introduction to Compiler Design
+<https://doi.org/10.1007/978-3-319-66966-3>`__, e quello indicato con *DAR* a
+`The Definitive ANTLR 4 Reference
+<https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__; il
+materiale indicato come *H* si riferisce agli `Handout
 <https://github.com/let-unimi/handouts/>`__ del docente; si veda la nota sui
 :ref:`numeri di sezione <numeridisezione>` che reca indicazioni su quali parti
 del materiale sono **parte del programma** e quali *letture consigliate, ma
