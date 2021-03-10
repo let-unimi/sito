@@ -4,6 +4,14 @@ Diario delle lezioni
 Potete trovare informazioni sulle modalità d'esame e sull'elenco degli argomenti
 che costituiscono il programma nella pagina di :doc:`info`,
 
+.. admonition:: Questionario
+   :class: alert alert-danger
+
+   Gli studenti interessati all'edizione di questo anno accademico
+   sono invitati a rispondere al questionario sulle `modalità di frequenza <https://bit.ly/3qbkxli>`__
+   e sui prerequisiti che è di importanza fondamentale per l'organizzazione delle
+   prossime lezioni.
+
 Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
 supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
@@ -47,7 +55,7 @@ facoltative*.
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
     | 2     | Mar  9/3   | Strutture dati ed algorimi elementari su alberi e grafi      | `H 2`_                                                              |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 3     | Gio 11/3   |                                                              |                                                                     |
+    | 3     | Gio 11/3   | Richiami su grammatiche e linguaggi                          |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
     | 4     | Mar 16/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+

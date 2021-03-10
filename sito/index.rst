@@ -1,3 +1,9 @@
+.. admonition:: Questionario
+  :class: alert alert-danger
+
+  Gli studenti sono invitati a rispondere al questionario sulle `modalità di frequenza <https://bit.ly/3qbkxli>`__
+  e sui prerequisiti.
+
 .. image:: _static/tree.png
    :scale: 50 %
    :align: left
