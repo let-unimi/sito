@@ -4,14 +4,6 @@ Diario delle lezioni
 Potete trovare informazioni sulle modalità d'esame e sull'elenco degli argomenti
 che costituiscono il programma nella pagina di :doc:`info`,
 
-.. admonition:: Questionario
-   :class: alert alert-danger
-
-   Gli studenti interessati all'edizione di questo anno accademico
-   sono invitati a rispondere al questionario sulle `modalità di frequenza <https://bit.ly/3qbkxli>`__
-   e sui prerequisiti che è di importanza fondamentale per l'organizzazione delle
-   prossime lezioni.
-
 Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
 supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
@@ -57,9 +49,9 @@ facoltative*.
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
     | 3     | Gio 11/3   | Richiami su grammatiche e linguaggi                          | `PT 2`_ 1-4, [5-8], [10-12]; `H 3`_                                 |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 4     | Mar 16/3   | Introduzione al *parsing*                                    | `PT 2`_ 9; `PT 3`_                                                  |
+    | 4     | Mar 16/3   | Introduzione al *parsing*                                    | `PT 2`_ 9; `PT 3`_ 1; `H 3`_                                        |
     +-------+------------+                                                              +---------------------------------------------------------------------+
-    | 5     | Gio 18/3   |                                                              |                                                                     |
+    | 5     | Gio 18/3   |                                                              | `PT 3`_ 2, 3, 4.1-3, [4.4-5], 5.1-5, [8-10]                         |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
     | 6     | Mar 23/3   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -127,6 +119,7 @@ facoltative*.
   .. _H 1: https://github.com/let-unimi/handouts/blob/f5ee884bd5ae4b7846eb5eb6b3b16879ae6aad95/L01.ipynb
   .. _H 2: https://github.com/let-unimi/handouts/blob/500cafd2acc199a2115c6009ddacd7d05f317094/L02.ipynb
   .. _H 3: https://github.com/let-unimi/handouts/blob/88c5c6d4a88ebccbd741b7f67d0bae75ca3a5b49/L03.ipynb
+  .. _H 4: https://github.com/let-unimi/handouts/blob/38b08aa519a8ac6a77cdcd3ea61e025450cf23a8/L04.ipynb
 
   .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
   .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
