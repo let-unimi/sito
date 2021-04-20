@@ -63,7 +63,7 @@ facoltative*.
     +-------+------------+ Parsing Top-Down (*Pushdown Automata*, *Recursive descent*)  +---------------------------------------------------------------------+
     | 10    | Gio 15/4   |                                                              | `PT 6`_ 4, 6.1; `H 10`_                                             |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 11    | Mar 20/4   | Parsing Bottom-up                                            | `PT 7`_ 1                                                           |
+    | 11    | Mar 20/4   | Parsing Bottom-up                                            | `PT 7`_ 1; `H 11`_                                                  |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
     | 12    | Gio 22/4   |                                                              | `PT 8`_ 1 - 2.1                                                     |
     +-------+------------+ Parsing deterministico Top-Down (*LL*)                       +---------------------------------------------------------------------+
@@ -126,6 +126,7 @@ facoltative*.
   .. _H 8: https://github.com/let-unimi/handouts/blob/718a867b221fe03eac1d23c736f9f3e17b547a8e/L08.ipynb
   .. _H 9: https://github.com/let-unimi/handouts/blob/826ce662546163efb97557a8dd88d7993fb9e3d7/L09.ipynb
   .. _H 10: https://github.com/let-unimi/handouts/blob/f600e06a53d004b47bec494d7b5c365530f4b62f/L10.ipynb
+  .. _H 11: https://github.com/let-unimi/handouts/blob/a43bf194d80b7ec65c3c84856bf24bcc42ce4d63/L11.ipynb
 
   .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
   .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
