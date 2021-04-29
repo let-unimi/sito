@@ -69,7 +69,7 @@ facoltative*.
     +-------+------------+ Parsing deterministico Top-Down (*LL*)                       +---------------------------------------------------------------------+
     | 13    | Mar 27/4   |                                                              | `PT 8`_ 2.2 - 2.6; `H 13`_                                          |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
-    | 14    | Gio 29/4   | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ 5 - 5.3                                                     |
+    | 14    | Gio 29/4   | Parsing deterministico Bottom-Up (*LR*)                      | `PT 9`_ 5 - 5.3; `H 13`_                                            |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
     | 15    | Mar  4/5   |                                                              |                                                                     |
     +-------+------------+--------------------------------------------------------------+---------------------------------------------------------------------+
@@ -129,6 +129,7 @@ facoltative*.
   .. _H 11: https://github.com/let-unimi/handouts/blob/a43bf194d80b7ec65c3c84856bf24bcc42ce4d63/L11.ipynb
   .. _H 12: https://github.com/let-unimi/handouts/blob/62ef28aa3df64cedfe0d033d68fc9ba280d63420/L12.ipynb
   .. _H 13: https://github.com/let-unimi/handouts/blob/48b3087f04fd5ea75d0086bd5367844783e20e13/L13.ipynb
+  .. _H 14: https://github.com/let-unimi/handouts/blob/60265ce764f42f5b2326c866fe8267754067b349/L14.ipynb
 
   .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
   .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
