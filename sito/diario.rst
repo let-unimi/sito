@@ -77,7 +77,7 @@ facoltative*.
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 17    | Mar 11/5   | Dall'albero di parsing all'AST                                 | `H 17`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 18    | Gio 13/5   | Traduzioni orientate ai dati                                   |                                                                     |
+    | 18    | Gio 13/5   | Traduzioni orientate ai dati                                   | `H 18`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 19    | Mar 18/5   | Traspilazione (verso Javascript e il *bytecode* di Python)     |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -133,6 +133,7 @@ facoltative*.
   .. _H 15: https://github.com/let-unimi/handouts/blob/18c2817805261dc1a86f7783384fc5fda33c1133/L15.ipynb
   .. _H 16: https://github.com/let-unimi/handouts/blob/c331edf3e3f6bd04cfa446fd849d91e6da966296/L16.ipynb
   .. _H 17: https://github.com/let-unimi/handouts/blob/6ebfd23cb49923b44a82519810b6813896c106b9/L17.ipynb
+  .. _H 18: https://github.com/let-unimi/handouts/blob/19c7783dfd02ea22cd6450e161bb56a01a368525/L18.ipynb
 
   .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
   .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
