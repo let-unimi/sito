@@ -79,7 +79,7 @@ facoltative*.
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 18    | Gio 13/5   | Traduzioni orientate ai dati                                   | `H 18`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 19    | Mar 18/5   | Traspilazione (verso Javascript e l'*AST* di Python)           |                                                                     |
+    | 19    | Mar 18/5   | Traspilazione (verso Javascript e l'*AST* di Python)           | `H 19`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 20    | Gio 20/5   | Symbol table (e *scoping*)                                     |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -134,6 +134,7 @@ facoltative*.
   .. _H 16: https://github.com/let-unimi/handouts/blob/c331edf3e3f6bd04cfa446fd849d91e6da966296/L16.ipynb
   .. _H 17: https://github.com/let-unimi/handouts/blob/6ebfd23cb49923b44a82519810b6813896c106b9/L17.ipynb
   .. _H 18: https://github.com/let-unimi/handouts/blob/19c7783dfd02ea22cd6450e161bb56a01a368525/L18.ipynb
+  .. _H 19: https://github.com/let-unimi/handouts/blob/cda1fbc48197730f0675d6ecd2da9b68efb21790/L19.ipynb
 
   .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
   .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
