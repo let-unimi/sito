@@ -81,7 +81,7 @@ facoltative*.
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 19    | Mar 18/5   | Traspilazione (verso Javascript e l'*AST* di Python)           | `H 19`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 20    | Gio 20/5   | Symbol table (e *scoping*)                                     | ICD 3; [DAR 8.4; MCD 2.11]                                          |
+    | 20    | Gio 20/5   | Symbol table (e *scoping*)                                     | ICD 3; [DAR 8.4; MCD 2.11]; `H 20`_                                 |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 21    | Mar 25/5   | Interpreti ricorsivi (e *funzioni*)                            | ICD 4; [MCD 6.1-2]                                                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -135,6 +135,7 @@ facoltative*.
   .. _H 17: https://github.com/let-unimi/handouts/blob/6ebfd23cb49923b44a82519810b6813896c106b9/L17.ipynb
   .. _H 18: https://github.com/let-unimi/handouts/blob/19c7783dfd02ea22cd6450e161bb56a01a368525/L18.ipynb
   .. _H 19: https://github.com/let-unimi/handouts/blob/cda1fbc48197730f0675d6ecd2da9b68efb21790/L19.ipynb
+  .. _H 20: https://github.com/let-unimi/handouts/blob/15866e815f482fe44869440f677163d4060eee7e/L20.ipynb
 
   .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
   .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
