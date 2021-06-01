@@ -87,7 +87,7 @@ facoltative*.
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 22    | Gio 27/5   | Type checking (statico per tipi primitivi)                     | ICD 5; `H 22`_                                                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 23    | Mar  1/6   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3                                                        |
+    | 23    | Mar  1/6   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3; `H 23`_                                               |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 24    | Gio  3/6   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6                                                               |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -138,6 +138,7 @@ facoltative*.
   .. _H 20: https://github.com/let-unimi/handouts/blob/15866e815f482fe44869440f677163d4060eee7e/L20.ipynb
   .. _H 21: https://github.com/let-unimi/handouts/blob/f4d07b48afd10acf7de68e948b23e8835749f48e/L21.ipynb
   .. _H 22: https://github.com/let-unimi/handouts/blob/d633961edf683ce8c9847483720acb448b1462d5/L22.ipynb
+  .. _H 22: https://github.com/let-unimi/handouts/blob/9feb7db4b4700fede523348a15fe0e335d6f4aaa/L23.ipynb
 
   .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
   .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
