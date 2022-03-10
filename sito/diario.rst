@@ -34,7 +34,7 @@ facoltative*.
     +=======+============+================================================================+=====================================================================+
     | 1     | Mar  8/3   | Administrivia; introduzione a Python                           | `PT 1`_; `TPT 3`_, `TPT 4`_ 1-6 e `TPT 5`_; `H 1`_                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 2     | Gio 10/3   | Strutture dati ed algorimi elementari su alberi e grafi        |                                                                     |
+    | 2     | Gio 10/3   | Strutture dati ed algorimi elementari su alberi e grafi        | `H 2`_                                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -61,19 +61,20 @@ facoltative*.
 
 |
 
-  .. _H 1: https://github.com/let-unimi/handouts/blob/e40103253530683c4be020b22fe41c1247e36247/L01.ipynb
+.. _H 1: https://github.com/let-unimi/handouts/blob/e40103253530683c4be020b22fe41c1247e36247/L01.ipynb
+.. _H 2: https://github.com/let-unimi/handouts/blob/35df58cce0b26fcc3377771c412b572b601bc37d/L02.ipynb
 
-  .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
-  .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
-  .. _PT 3: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_3.pdf
-  .. _PT 4: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_4.pdf
-  .. _PT 5: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_5.pdf
-  .. _PT 6: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_6.pdf
-  .. _PT 7: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_7.pdf
-  .. _PT 8: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_8.pdf
-  .. _PT 9: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_9.pdf
+.. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
+.. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
+.. _PT 3: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_3.pdf
+.. _PT 4: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_4.pdf
+.. _PT 5: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_5.pdf
+.. _PT 6: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_6.pdf
+.. _PT 7: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_7.pdf
+.. _PT 8: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_8.pdf
+.. _PT 9: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_9.pdf
 
-  .. _TPT 3: https://docs.python.org/3/tutorial/introduction.html
-  .. _TPT 4: https://docs.python.org/3/tutorial/controlflow.html
-  .. _TPT 5: https://docs.python.org/3/tutorial/datastructures.html
-  .. _TPT 9: https://docs.python.org/3/tutorial/classes.html
+.. _TPT 3: https://docs.python.org/3/tutorial/introduction.html
+.. _TPT 4: https://docs.python.org/3/tutorial/controlflow.html
+.. _TPT 5: https://docs.python.org/3/tutorial/datastructures.html
+.. _TPT 9: https://docs.python.org/3/tutorial/classes.html
