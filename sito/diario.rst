@@ -19,11 +19,11 @@ libro `Introduction to Compiler Design
 <https://doi.org/10.1007/978-3-319-66966-3>`__, e quello indicato con *DAR* a
 `The Definitive ANTLR 4 Reference
 <https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__; il
-materiale indicato come *H* si riferisce agli `Handout
-<https://github.com/let-unimi/handouts/>`__ del docente; si veda la nota sui
-:ref:`numeri di sezione <numeridisezione>` che reca indicazioni su quali parti
-del materiale sono **parte del programma** e quali *letture consigliate, ma
-facoltative*.
+materiale indicato come *H*, *E* e *S* si riferisce agli `Handout
+<https://github.com/let-unimi/handouts/>`__ del docente (relativamente a
+lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
+<numeridisezione>` che reca indicazioni su quali parti del materiale sono
+**parte del programma** e quali *letture consigliate, ma facoltative*.
 
 |
 
