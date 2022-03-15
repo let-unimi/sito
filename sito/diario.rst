@@ -73,6 +73,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 2: https://github.com/let-unimi/handouts/blob/35df58cce0b26fcc3377771c412b572b601bc37d/L02.ipynb
 .. _E 2: https://github.com/let-unimi/handouts/blob/40f45c4b530a4717d34f4c5df64f324c93a82cac/E02.ipynb
 .. _S 2: https://github.com/let-unimi/handouts/blob/00e24dd3d7a833a1e7f0533d849720d98b939233/S02.ipynb
+.. _H 3: https://github.com/let-unimi/handouts/blob/c1fe742f710ef56b403d52195f8ae67688f92bfa/L03.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
