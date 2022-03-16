@@ -34,9 +34,9 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +=======+============+================================================================+=====================================================================+
     | 1     | Mar  8/3   | Administrivia; introduzione a Python                           | `PT 1`_; `TPT 3`_, `TPT 4`_ 1-6 e `TPT 5`_; `H 1`_                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 2     | Gio 10/3   | Strutture dati ed algorimi elementari su alberi e grafi        | `H 2`_; `E 2`_; `S 2`_                                              |
+    | 2     | Gio 10/3   | Strutture dati ed algorimi elementari su alberi e grafi        | `H 2`_, `E 2`_, `S 2`_                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 3     | Mar 15/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; `H 3`_                              |
+    | 3     | Mar 15/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; `H 3`_, `E 3`_                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 4     | Gio 17/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -74,6 +74,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _E 2: https://github.com/let-unimi/handouts/blob/40f45c4b530a4717d34f4c5df64f324c93a82cac/E02.ipynb
 .. _S 2: https://github.com/let-unimi/handouts/blob/00e24dd3d7a833a1e7f0533d849720d98b939233/S02.ipynb
 .. _H 3: https://github.com/let-unimi/handouts/blob/c1fe742f710ef56b403d52195f8ae67688f92bfa/L03.ipynb
+.. _E 3: https://github.com/let-unimi/handouts/blob/1c011f7a44cfb5bbf1f318c84962c808ee47b042/E03.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
