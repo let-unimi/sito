@@ -36,7 +36,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 2     | Gio 10/3   | Strutture dati ed algorimi elementari su alberi e grafi        | `H 2`_, `E 2`_, `S 2`_                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 3     | Mar 15/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; `H 3`_, `E 3`_                      |
+    | 3     | Mar 15/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; `H 3`_, `E 3`_, `S 3`_              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 4     | Gio 17/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4; `H 4`_, `E 4`_                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -76,6 +76,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 
 .. _H 3: https://github.com/let-unimi/handouts/blob/c1fe742f710ef56b403d52195f8ae67688f92bfa/L03.ipynb
 .. _E 3: https://github.com/let-unimi/handouts/blob/1c011f7a44cfb5bbf1f318c84962c808ee47b042/E03.ipynb
+.. _S 2: https://github.com/let-unimi/handouts/blob/476a3f10755f6cedd4274f6634ec997ac59472b8/S03.ipynb
 
 .. _H 4: https://github.com/let-unimi/handouts/blob/1fe96d931dc71757e511350a4dc5470ba1c18ac9/L03.ipynb
 .. _E 4: https://github.com/let-unimi/handouts/blob/1fe96d931dc71757e511350a4dc5470ba1c18ac9/E04.ipynb
