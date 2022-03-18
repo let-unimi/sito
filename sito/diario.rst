@@ -76,7 +76,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 
 .. _H 3: https://github.com/let-unimi/handouts/blob/c1fe742f710ef56b403d52195f8ae67688f92bfa/L03.ipynb
 .. _E 3: https://github.com/let-unimi/handouts/blob/1c011f7a44cfb5bbf1f318c84962c808ee47b042/E03.ipynb
-.. _S 2: https://github.com/let-unimi/handouts/blob/476a3f10755f6cedd4274f6634ec997ac59472b8/S03.ipynb
+.. _S 3: https://github.com/let-unimi/handouts/blob/476a3f10755f6cedd4274f6634ec997ac59472b8/S03.ipynb
 
 .. _H 4: https://github.com/let-unimi/handouts/blob/1fe96d931dc71757e511350a4dc5470ba1c18ac9/L03.ipynb
 .. _E 4: https://github.com/let-unimi/handouts/blob/1fe96d931dc71757e511350a4dc5470ba1c18ac9/E04.ipynb
