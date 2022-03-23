@@ -40,7 +40,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 4     | Gio 17/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4; `H 4`_, `E 4`_                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 5     | Max 22/3   | Introduzione al parsing                                        | `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]                             |
+    | 5     | Max 22/3   | Introduzione al parsing                                        | `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]; `H 5`_                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 6     | Gio 24/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7                                                       |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -81,6 +81,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 4: https://github.com/let-unimi/handouts/blob/1fe96d931dc71757e511350a4dc5470ba1c18ac9/L03.ipynb
 .. _E 4: https://github.com/let-unimi/handouts/blob/1fe96d931dc71757e511350a4dc5470ba1c18ac9/E04.ipynb
 
+.. _H 5: https://github.com/let-unimi/handouts/blob/384192bfd495a96b862ac86f90fe732db595bfd9/L05.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
