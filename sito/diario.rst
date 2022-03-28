@@ -42,7 +42,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  5    | Max 22/3   | Introduzione al parsing                                        | `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]; `H 5`_                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  6    | Gio 24/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7; `H 6`_                                               |
+    |  6    | Gio 24/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7; `H 6`_, `S 6`_                                       |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  7    | Mar 29/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9];                                                 |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -92,6 +92,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 5: https://github.com/let-unimi/handouts/blob/384192bfd495a96b862ac86f90fe732db595bfd9/L05.ipynb
 
 .. _H 6: https://github.com/let-unimi/handouts/blob/b56e2d0c3489074dbf2c67ac89769368a1999fa6/L06.ipynb
+.. _S 6: https://github.com/let-unimi/handouts/blob/535799b11bb983760a4a25062bb6ffe038fd4df4/S06.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
