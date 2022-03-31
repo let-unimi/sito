@@ -46,7 +46,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  7    | Mar 29/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9]; `H 7`_                                          |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  8    | Gio 31/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5                                                      |
+    |  8    | Gio 31/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5; `H 8`_                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  9    | Mar  5/4   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1                                                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -95,6 +95,8 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _S 6: https://github.com/let-unimi/handouts/blob/535799b11bb983760a4a25062bb6ffe038fd4df4/S06.ipynb
 
 .. _H 7: https://github.com/let-unimi/handouts/blob/bf24e60137de24822a292c88efcabd3c0109cb4b/L07.ipynb
+
+.. _H 8: https://github.com/let-unimi/handouts/blob/5806377a3fc07b1b59e04ef8fbeba9f58d9ed859/L08.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
