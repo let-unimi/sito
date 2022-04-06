@@ -48,7 +48,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  8    | Gio 31/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5; `H 8`_                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  9    | Mar  5/4   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1                                                      |
+    |  9    | Mar  5/4   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1; `H 9`_                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 10    | Gio  7/4   | Parsing bottom-up (simulazione BF e DF)                        | `PT 7`_ 1                                                           |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -97,6 +97,8 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 7: https://github.com/let-unimi/handouts/blob/bf24e60137de24822a292c88efcabd3c0109cb4b/L07.ipynb
 
 .. _H 8: https://github.com/let-unimi/handouts/blob/5806377a3fc07b1b59e04ef8fbeba9f58d9ed859/L08.ipynb
+
+.. _H 9: https://github.com/let-unimi/handouts/blob/733bb66dbd47a11f43c9ff23dcf844d2724d0823/L09.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
