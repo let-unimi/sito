@@ -54,7 +54,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 11    | Mar 12/4   |                                                                | `PT 8`_ 1-2.1; `H 11`_                                              |
     +-------+------------+                                                                +---------------------------------------------------------------------+
-    | 12    | Gio 21/4   | Parsing deterministico Top-Down (*LL*)                         | `PT 8`_ 2.2-6                                                       |
+    | 12    | Gio 21/4   | Parsing deterministico Top-Down (*LL*)                         | `PT 8`_ 2.2-6; `H 12`_                                              |
     +-------+------------+                                                                +---------------------------------------------------------------------+
     | 13    | Mar 26/4   |                                                                |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -113,7 +113,9 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 9: https://github.com/let-unimi/handouts/blob/733bb66dbd47a11f43c9ff23dcf844d2724d0823/L09.ipynb
 
 .. _H 10: https://github.com/let-unimi/handouts/blob/93ec74bc70c9990b3172a5d3e7df7e4cf3c7e9a4/L10.ipynb
+
 .. _H 11: https://github.com/let-unimi/handouts/blob/52471b928342dc9f633d12a67909ec3cecc08e49/L11.ipynb
+.. _H 12: https://github.com/let-unimi/handouts/blob/271d4d360ddc25084ab225e3ecd7ec39165f6536/L12.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
