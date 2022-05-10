@@ -64,7 +64,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
     | 16    | Gio  5/5   |                                                                | DAR 3-4; `H 16`_                                                    |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 17    | Mar 10/5   | Dall'albero di parsing all'AST                                 |                                                                     |
+    | 17    | Mar 10/5   | Dall'albero di parsing all'AST                                 | `H 17`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 18    | Gio 12/5   | Traduzioni orientate ai dati                                   | [DAR 8]                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -136,7 +136,8 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 14: https://github.com/let-unimi/handouts/blob/90a11625f09c668a06dd69e59fd72afb7e6e61f5/L14.ipynb
 
 .. _H 15: https://github.com/let-unimi/handouts/blob/ce7acbf4d5e857b7b0184ffe735d858299b3dfd8/L15.ipynb
-.. _H 15: https://github.com/let-unimi/handouts/blob/ebe7fe593331703b9fb47afe5f5f1462e0612696/L16.ipynb
+.. _H 16: https://github.com/let-unimi/handouts/blob/ebe7fe593331703b9fb47afe5f5f1462e0612696/L16.ipynb
+.. _H 17: https://github.com/let-unimi/handouts/blob/1cd9fc91590add67beece88b241bc5523e17c76a/L17.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
