@@ -74,7 +74,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 21    | Mar 24/5   | Interpreti ricorsivi (e *funzioni*)                            | ICD 4; [MCD 6.1-2]; `H 21`_                                         |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 22    | Gio 26/5   | Type checking (statico per tipi primitivi)                     | ICD 5                                                               |
+    | 22    | Gio 26/5   | Type checking (statico per tipi primitivi)                     | ICD 5; `H 22`_                                                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 23    | Mar 31/5   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3                                                        |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -142,6 +142,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 19: https://github.com/let-unimi/handouts/blob/3cfb74a1bff216467e434d65d544db43d1053adb/L19.ipynb
 .. _H 20: https://github.com/let-unimi/handouts/blob/ed19a449aa5135bdb5f879a40c285926699706cc/L20.ipynb
 .. _H 21: https://github.com/let-unimi/handouts/blob/05d7a2e0d6c34e5fcc8a8319c25aa9a0030fb0a8/L21.ipynb
+.. _H 22: https://github.com/let-unimi/handouts/blob/c21b1c16236159b1a7604417775cf41ec873f6ae/L22.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
