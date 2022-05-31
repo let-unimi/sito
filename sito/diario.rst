@@ -80,7 +80,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |       |            | *Presentazione del progetto*                                                                                                         |
     +-------+ Mar 31/5   +----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 24    |            | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6                                                           |
+    | 24    |            | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6; `H 24`_                                                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
  
 |
@@ -146,6 +146,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 21: https://github.com/let-unimi/handouts/blob/05d7a2e0d6c34e5fcc8a8319c25aa9a0030fb0a8/L21.ipynb
 .. _H 22: https://github.com/let-unimi/handouts/blob/c21b1c16236159b1a7604417775cf41ec873f6ae/L22.ipynb
 .. _H 23: https://github.com/let-unimi/handouts/blob/710d91db6d8945e2eea4e65f3d9e9f6634193114/L23.ipynb
+.. _H 24: https://github.com/let-unimi/handouts/blob/96eaad9bb5626a448e4b6f04e1b9a87543202a01/L24.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
