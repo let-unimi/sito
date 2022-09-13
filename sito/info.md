@@ -6,18 +6,18 @@ La teoria dei **linguaggi** formali è una delle discipline centrali
 dell'informatica; l'uso delle *grammatiche* da essa studiate non solo permette
 di definire in modo conciso ed esatto insiemi infiniti (come ad esempio: i
 programmi sintatticamente corretti, i documenti HTML validi, i file XML ben
-formati, gli indirizzi email o le URL aderenti allo standard), ma consente anche
-vari tipi di trattamento automatico dei medesimi. In particolare, permette di
-definire **traduttori** che, sfruttando la struttura grammaticale, conseguono
+formati, gli indirizzi email o le URL aderenti allo standard…), ma consente
+anche vari tipi di trattamento automatico dei medesimi. In particolare, permette
+di definire **traduttori** che, sfruttando la struttura grammaticale, conseguono
 obiettivi di grande complessità ed utilità (come, ad esempio: la compilazione,
 interpretazione e transpilazione del codice, l'individuazione di errori di
 programmazione, l'estrazione di informazioni strutturate…).
 
-Questo insegnamento ha per obiettivo l'apprendimento degli aspetti *teorici* e
-*algoritmici* dei linguaggi formali coinvolti nelle attività di definizione e
-uso delle grammatiche, analisi e traduzione e di metterli in *pratica*
-attraverso la realizzazione di programmi concreti relativi a semplici casi di
-studio.
+Questo insegnamento ha per obiettivo sia l'apprendimento degli aspetti *teorici*
+e *algoritmici* dei linguaggi formali coinvolti nelle attività di definizione e
+uso delle grammatiche, analisi e traduzione che lo sviluppo di competenze
+*pratiche* attraverso la realizzazione di programmi concreti relativi a semplici
+casi di studio.
 
 ### Risultati di apprendimento attesi
 
@@ -27,8 +27,8 @@ A seguito del superamento dell'esame, lo studente:
   contesto,
 * conosce le tecniche di analisi lessicale e sintattica di base e la loro
   implementazione pratica,
-* conosce alcuni rudimenti del funzionamento di interpreti, transpilatori e più
-  in generale di traduzione tra formati strutturati;
+* conosce alcuni rudimenti del funzionamento di compilatori, interpreti,
+  transpilatori e più in generale di traduzione tra formati strutturati;
 
 inoltre è in grado di:
 
@@ -55,8 +55,8 @@ Riguardo agli aspetti legati alla traduzione:
 * analisi grammaticale e *parsing*: tecniche generali non direzionali, tecniche
   generali direzionali (*top-down* e *bottom-up*), tecniche deterministiche
   (*LL* e *LR*);
-* interpreti transpilatori e traduttori: nozioni di base, grammatiche con
-  attributi, pattern generali.
+* compilatori, interpreti, transpilatori e traduttori: nozioni di base,
+  grammatiche con attributi, pattern generali.
 
 ### Prerequisiti
 
