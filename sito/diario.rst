@@ -34,7 +34,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +=======+============+================================================================+=====================================================================+
     |  1    | Mar 28/2   | Administrivia; introduzione a Python                           | `PT 1`_; `TPT 3`_, `TPT 4`_ 1-6 e `TPT 5`_; `H 1`_                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  2    | Gio  2/3   | Strutture dati ed algorimi elementari su alberi e grafi        |                                                                     |
+    |  2    | Gio  2/3   | Strutture dati ed algorimi elementari su alberi e grafi        | `H 2`_                                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
  
 |
@@ -77,3 +77,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _TPT 9: https://docs.python.org/3/tutorial/classes.html
 
 .. _H 1: https://github.com/let-unimi/handouts/blob/ca18ecc9d069284ffb195b55251e44fe62c5abae/L01.ipynb
+.. _H 2: https://github.com/let-unimi/handouts/blob/8ef6a7b01fe7d85bd98ac58b989564205b79a9e2/L02.ipynb
