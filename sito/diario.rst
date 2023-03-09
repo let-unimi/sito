@@ -38,7 +38,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  3    | Mar  7/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; `H 3`_                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  4    | Gio  9/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4                                              |
+    |  4    | Gio  9/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4; `H 4`_                                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -83,3 +83,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 1: https://github.com/let-unimi/handouts/blob/ca18ecc9d069284ffb195b55251e44fe62c5abae/L01.ipynb
 .. _H 2: https://github.com/let-unimi/handouts/blob/8ef6a7b01fe7d85bd98ac58b989564205b79a9e2/L02.ipynb
 .. _H 3: https://github.com/let-unimi/handouts/blob/946b028b86219174dd5db50e3130b11ee71b5e81/L03.ipynb
+.. _H 4: https://github.com/let-unimi/handouts/blob/1a55556a77c9292b077ab23a40ebd21ed66e6a39/L04.ipynb
