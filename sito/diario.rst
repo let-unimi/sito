@@ -40,7 +40,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  4    | Gio  9/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4; `H 4`_                                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  5    | Max 14/3   | Introduzione al parsing                                        | `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]                             |
+    |  5    | Max 14/3   | Introduzione al parsing                                        | `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]; `H 5`_                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  6    | Gio 16/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7                                                       |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -88,3 +88,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 2: https://github.com/let-unimi/handouts/blob/8ef6a7b01fe7d85bd98ac58b989564205b79a9e2/L02.ipynb
 .. _H 3: https://github.com/let-unimi/handouts/blob/946b028b86219174dd5db50e3130b11ee71b5e81/L03.ipynb
 .. _H 4: https://github.com/let-unimi/handouts/blob/1a55556a77c9292b077ab23a40ebd21ed66e6a39/L04.ipynb
+.. _H 5: https://github.com/let-unimi/handouts/blob/2b6e2d5a76a9c95e149a286f9baba76b126af5a1/L05.ipynb
