@@ -42,7 +42,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  5    | Max 14/3   | Introduzione al parsing                                        | `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]; `H 5`_                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  6    | Gio 16/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7                                                       |
+    |  6    | Gio 16/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7; `H 6`_                                               |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -89,3 +89,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 3: https://github.com/let-unimi/handouts/blob/946b028b86219174dd5db50e3130b11ee71b5e81/L03.ipynb
 .. _H 4: https://github.com/let-unimi/handouts/blob/1a55556a77c9292b077ab23a40ebd21ed66e6a39/L04.ipynb
 .. _H 5: https://github.com/let-unimi/handouts/blob/2b6e2d5a76a9c95e149a286f9baba76b126af5a1/L05.ipynb
+.. _H 6: https://github.com/let-unimi/handouts/blob/81f14642b5274d4a532b9b2c161c6abc30897493/L06.ipynb
