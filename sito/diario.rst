@@ -44,7 +44,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  6    | Gio 16/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7; `H 6`_                                               |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  7    | Mar 21/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9]                                                  |
+    |  7    | Mar 21/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9]; `H 7`_                                          |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  8    | Gio 23/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5                                                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -94,3 +94,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 4: https://github.com/let-unimi/handouts/blob/1a55556a77c9292b077ab23a40ebd21ed66e6a39/L04.ipynb
 .. _H 5: https://github.com/let-unimi/handouts/blob/2b6e2d5a76a9c95e149a286f9baba76b126af5a1/L05.ipynb
 .. _H 6: https://github.com/let-unimi/handouts/blob/81f14642b5274d4a532b9b2c161c6abc30897493/L06.ipynb
+.. _H 7: https://github.com/let-unimi/handouts/blob/1be839a1010e2b6d37905778286d49badbb2d31f/L07.ipynb
