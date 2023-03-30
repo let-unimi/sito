@@ -50,7 +50,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  9    | Mar 28/3   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1; `H 9`_                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 10    | Gio 30/3   | Parsing bottom-up (simulazione BF e DF)                        | `PT 7`_ 1                                                           |
+    | 10    | Gio 30/3   | Parsing bottom-up (simulazione BF e DF)                        | `PT 7`_ 1; `H 10`_                                                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 11    | Mar  4/4   |                                                                | `PT 8`_ 1-2.1                                                       |
     +-------+------------+                                                                +---------------------------------------------------------------------+
@@ -109,3 +109,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 7: https://github.com/let-unimi/handouts/blob/1be839a1010e2b6d37905778286d49badbb2d31f/L07.ipynb
 .. _H 8: https://github.com/let-unimi/handouts/blob/c4335f0af928db81aa45641d0b170848fd51ef71/L08.ipynb
 .. _H 9: https://github.com/let-unimi/handouts/blob/c07560be29a3b2484be43d7c35716a95485c11ea/L09.ipynb
+.. _H 9: https://github.com/let-unimi/handouts/blob/e61fd06f28461240a2faae92abb7a0f779ac73d7/L10.ipynb
