@@ -109,4 +109,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 7: https://github.com/let-unimi/handouts/blob/1be839a1010e2b6d37905778286d49badbb2d31f/L07.ipynb
 .. _H 8: https://github.com/let-unimi/handouts/blob/c4335f0af928db81aa45641d0b170848fd51ef71/L08.ipynb
 .. _H 9: https://github.com/let-unimi/handouts/blob/c07560be29a3b2484be43d7c35716a95485c11ea/L09.ipynb
-.. _H 9: https://github.com/let-unimi/handouts/blob/e61fd06f28461240a2faae92abb7a0f779ac73d7/L10.ipynb
+.. _H 10: https://github.com/let-unimi/handouts/blob/e61fd06f28461240a2faae92abb7a0f779ac73d7/L10.ipynb
