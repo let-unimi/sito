@@ -56,7 +56,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+                                                                +---------------------------------------------------------------------+
     | 12    | Gio 13/4   | Parsing deterministico Top-Down (*LL*)                         | `PT 8`_ 2.2-6; `H 12`_                                              |
     +-------+------------+                                                                +---------------------------------------------------------------------+
-    | 13    | Mar 18/4   |                                                                |                                                                     |
+    | 13    | Mar 18/4   |                                                                | `H 13`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 14    | Gio 20/4   | Parsing deterministico Bottom-Up (*LR*)                        | `PT 9`_ 5 - 5.3                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -112,3 +112,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 10: https://github.com/let-unimi/handouts/blob/e61fd06f28461240a2faae92abb7a0f779ac73d7/L10.ipynb
 .. _H 11: https://github.com/let-unimi/handouts/blob/b92a693cb887b5956ba95266bea5b00a5574a8c2/L11.ipynb
 .. _H 12: https://github.com/let-unimi/handouts/blob/5ba288c3450bfd2c993e50ed997747288d739ff9/L12.ipynb
+.. _H 13: https://github.com/let-unimi/handouts/blob/0b358cc19e71e1506abbfdc175c186efca66bc00/L13.ipynb
