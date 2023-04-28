@@ -60,7 +60,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 14    | Gio 20/4   | Parsing deterministico Bottom-Up (*LR*)                        | `PT 9`_ 5 - 5.3; `H 14`_                                            |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 15    | Gio 27/4   |                                                                | DAR 1-2, 9.1-2                                                      |
+    | 15    | Gio 27/4   |                                                                | DAR 1-2, 9.1-2; `H 15`_                                             |
     +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
     | 16    | Mar  2/4   |                                                                | DAR 3-4                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -134,3 +134,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 12: https://github.com/let-unimi/handouts/blob/5ba288c3450bfd2c993e50ed997747288d739ff9/L12.ipynb
 .. _H 13: https://github.com/let-unimi/handouts/blob/0b358cc19e71e1506abbfdc175c186efca66bc00/L13.ipynb
 .. _H 14: https://github.com/let-unimi/handouts/blob/29965773ec6d0fdc875a00d5ad135779908862bd/L14.ipynb
+.. _H 15: https://github.com/let-unimi/handouts/blob/21aaa4337e120c9449cc3c80ae3e1284ed6c01b5/L15.ipynb
