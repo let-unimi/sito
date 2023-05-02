@@ -62,7 +62,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 15    | Gio 27/4   |                                                                | DAR 1-2, 9.1-2; `H 15`_                                             |
     +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
-    | 16    | Mar  2/4   |                                                                | DAR 3-4                                                             |
+    | 16    | Mar  2/4   |                                                                | DAR 3-4; `H 16`_                                                    |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 17    | Gio  4/5   | Dall'albero di parsing all'AST                                 |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -134,4 +134,5 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 12: https://github.com/let-unimi/handouts/blob/5ba288c3450bfd2c993e50ed997747288d739ff9/L12.ipynb
 .. _H 13: https://github.com/let-unimi/handouts/blob/0b358cc19e71e1506abbfdc175c186efca66bc00/L13.ipynb
 .. _H 14: https://github.com/let-unimi/handouts/blob/29965773ec6d0fdc875a00d5ad135779908862bd/L14.ipynb
-.. _H 15: https://github.com/let-unimi/handouts/blob/21aaa4337e120c9449cc3c80ae3e1284ed6c01b5/L15.ipynb
+.. _H 15: https://github.com/let-unimi/handouts/blob/21aaa4337e120c9449cc3c80ae3e1284ed6c01b5/L15.ipynù
+.. _H 16: https://github.com/let-unimi/handouts/blob/1afe1d394580c95f84fb171c8237aea172eca143/L16.ipynb
