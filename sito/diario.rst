@@ -64,7 +64,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
     | 16    | Mar  2/4   |                                                                | DAR 3-4; `H 16`_                                                    |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 17    | Gio  4/5   | Dall'albero di parsing all'AST                                 |                                                                     |
+    | 17    | Gio  4/5   | Dall'albero di parsing all'AST                                 | `H 17`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 18    | Mar  9/5   | Traduzioni orientate ai dati                                   | [DAR 8]                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -136,3 +136,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 14: https://github.com/let-unimi/handouts/blob/29965773ec6d0fdc875a00d5ad135779908862bd/L14.ipynb
 .. _H 15: https://github.com/let-unimi/handouts/blob/21aaa4337e120c9449cc3c80ae3e1284ed6c01b5/L15.ipynù
 .. _H 16: https://github.com/let-unimi/handouts/blob/1afe1d394580c95f84fb171c8237aea172eca143/L16.ipynb
+.. _H 17: https://github.com/let-unimi/handouts/blob/1796a5bd0e3e930d57ea04a88bb94f5bde1c243e/L17.ipynb
