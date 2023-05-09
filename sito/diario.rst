@@ -66,7 +66,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 17    | Gio  4/5   | Dall'albero di parsing all'AST                                 | `H 17`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 18    | Mar  9/5   | Traduzioni orientate ai dati                                   | [DAR 8]                                                             |
+    | 18    | Mar  9/5   | Traduzioni orientate ai dati                                   | [DAR 8]; `H 18`_                                                    |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 19    | Gio 11/5   | Traspilazione (verso Javascript e l'*AST* di Python)           |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -137,3 +137,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 15: https://github.com/let-unimi/handouts/blob/21aaa4337e120c9449cc3c80ae3e1284ed6c01b5/L15.ipynù
 .. _H 16: https://github.com/let-unimi/handouts/blob/1afe1d394580c95f84fb171c8237aea172eca143/L16.ipynb
 .. _H 17: https://github.com/let-unimi/handouts/blob/1796a5bd0e3e930d57ea04a88bb94f5bde1c243e/L17.ipynb
+.. _H 18: https://github.com/let-unimi/handouts/blob/e166382a36f55268bc41eaf2565f15cc99c2898a/L18.ipynb
