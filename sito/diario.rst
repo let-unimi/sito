@@ -68,7 +68,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 18    | Mar  9/5   | Traduzioni orientate ai dati                                   | [DAR 8]; `H 18`_                                                    |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 19    | Gio 11/5   | Traspilazione (verso Javascript e l'*AST* di Python)           |                                                                     |
+    | 19    | Gio 11/5   | Traspilazione (verso Javascript e l'*AST* di Python)           | `H 19`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 20    | Mar 16/5   | Symbol table (e *scoping*)                                     | ICD 3; [DAR 8.4; MCD 2.11]                                          |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -138,3 +138,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 16: https://github.com/let-unimi/handouts/blob/1afe1d394580c95f84fb171c8237aea172eca143/L16.ipynb
 .. _H 17: https://github.com/let-unimi/handouts/blob/1796a5bd0e3e930d57ea04a88bb94f5bde1c243e/L17.ipynb
 .. _H 18: https://github.com/let-unimi/handouts/blob/e166382a36f55268bc41eaf2565f15cc99c2898a/L18.ipynb
+.. _H 19: https://github.com/let-unimi/handouts/blob/cdac8d451fb70cb64b71a682681c0722bcee4fde/L19.ipynb
