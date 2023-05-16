@@ -70,7 +70,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 19    | Gio 11/5   | Traspilazione (verso Javascript e l'*AST* di Python)           | `H 19`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 20    | Mar 16/5   | Symbol table (e *scoping*)                                     | ICD 3; [DAR 8.4; MCD 2.11]                                          |
+    | 20    | Mar 16/5   | Symbol table (e *scoping*)                                     | ICD 3; [DAR 8.4; MCD 2.11]; `H 20`_                                 |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 21    | Gio 18/5   | Interpreti ricorsivi (e *funzioni*)                            | ICD 4; [MCD 6.1-2]                                                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -139,3 +139,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 17: https://github.com/let-unimi/handouts/blob/1796a5bd0e3e930d57ea04a88bb94f5bde1c243e/L17.ipynb
 .. _H 18: https://github.com/let-unimi/handouts/blob/e166382a36f55268bc41eaf2565f15cc99c2898a/L18.ipynb
 .. _H 19: https://github.com/let-unimi/handouts/blob/cdac8d451fb70cb64b71a682681c0722bcee4fde/L19.ipynb
+.. _H 20: https://github.com/let-unimi/handouts/blob/bd7a00cf72afddb25586e04a2ed2099daec92206/L20.ipynb
