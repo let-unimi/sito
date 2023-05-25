@@ -76,7 +76,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 22    | Mar 23/5   | Type checking (statico per tipi primitivi)                     | ICD 5; `H 22`_                                                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 23    | Gio 25/5   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3                                                        |
+    | 23    | Gio 25/5   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3; `H 23`_                                               |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 24    | Mar 30/5   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6                                                           |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -142,3 +142,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 20: https://github.com/let-unimi/handouts/blob/bd7a00cf72afddb25586e04a2ed2099daec92206/L20.ipynb
 .. _H 21: https://github.com/let-unimi/handouts/blob/65582d2f97a897ae2af12fbece806b9044fd9aef/L21.ipynb
 .. _H 22: https://github.com/let-unimi/handouts/blob/4cdbb741d66a5b559e4d0e07e1273677d2211031/L22.ipynb
+.. _H 23: https://github.com/let-unimi/handouts/blob/2846c3a4f5ba9a56e722987bf6f550bb8dfde4a2/L23.ipynb
