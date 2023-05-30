@@ -78,7 +78,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 23    | Gio 25/5   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3; `H 23`_                                               |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 24    | Mar 30/5   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6                                                           |
+    | 24    | Mar 30/5   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6; `H 24`_                                                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -143,3 +143,4 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H 21: https://github.com/let-unimi/handouts/blob/65582d2f97a897ae2af12fbece806b9044fd9aef/L21.ipynb
 .. _H 22: https://github.com/let-unimi/handouts/blob/4cdbb741d66a5b559e4d0e07e1273677d2211031/L22.ipynb
 .. _H 23: https://github.com/let-unimi/handouts/blob/2846c3a4f5ba9a56e722987bf6f550bb8dfde4a2/L23.ipynb
+.. _H 24: https://github.com/let-unimi/handouts/blob/7c0e4ee2b3a07ab24a884ff404d3d8aa02ac0597/L24.ipynb
