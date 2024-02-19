@@ -8,8 +8,11 @@ Il seguente diario riporta gli *argomenti* e il *materiale didattico e di
 supporto* relativo sia alle **lezioni già svolte** (riguardo alle quali
 costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
 svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
-alle date che al contenuto). Le lezioni si svolgono di norma dalle 11:30 alle
-13:30.
+alle date che al contenuto). 
+
+**Nota bene**: diversamente dagli anni passasti, le lezioni si svolgono di norma
+il martedì e venerdì dalle ore 8:30 alle ore 10:30 in Aula Magistrale al V piano
+di Via Celoria 18.
 
 Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
 Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello indicato con
@@ -32,53 +35,9 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | Num   | Data       | Argomento                                                      | Materiale didattico                                                 |
     +=======+============+================================================================+=====================================================================+
-    |  1    | Mar 28/2   | Administrivia; introduzione a Python                           | `PT 1`_; `TPT 3`_, `TPT 4`_ 1-6 e `TPT 5`_; `H 1`_                  |
+    |  1    | Mar 27/2   | Administrivia; introduzione a Python                           | `PT 1`_; `TPT 3`_, `TPT 4`_ 1-6 e `TPT 5`_; `H 1`_                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  2    | Gio  2/3   | Strutture dati ed algorimi elementari su alberi e grafi        | `H 2`_                                                              |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  3    | Mar  7/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; `H 3`_                              |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  4    | Gio  9/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4; `H 4`_                                      |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  5    | Max 14/3   | Introduzione al parsing                                        | `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]; `H 5`_                     |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  6    | Gio 16/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7; `H 6`_                                               |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  7    | Mar 21/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9]; `H 7`_                                          |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  8    | Gio 23/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5; `H 8`_                                              |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  9    | Mar 28/3   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1; `H 9`_                                              |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 10    | Gio 30/3   | Parsing bottom-up (simulazione BF e DF)                        | `PT 7`_ 1; `H 10`_                                                  |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 11    | Mar  4/4   |                                                                | `PT 8`_ 1-2.1; `H 11`_                                              |
-    +-------+------------+                                                                +---------------------------------------------------------------------+
-    | 12    | Gio 13/4   | Parsing deterministico Top-Down (*LL*)                         | `PT 8`_ 2.2-6; `H 12`_                                              |
-    +-------+------------+                                                                +---------------------------------------------------------------------+
-    | 13    | Mar 18/4   |                                                                | `H 13`_                                                             |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 14    | Gio 20/4   | Parsing deterministico Bottom-Up (*LR*)                        | `PT 9`_ 5 - 5.3; `H 14`_                                            |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 15    | Gio 27/4   |                                                                | DAR 1-2, 9.1-2; `H 15`_                                             |
-    +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
-    | 16    | Mar  2/4   |                                                                | DAR 3-4; `H 16`_                                                    |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 17    | Gio  4/5   | Dall'albero di parsing all'AST                                 | `H 17`_                                                             |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 18    | Mar  9/5   | Traduzioni orientate ai dati                                   | [DAR 8]; `H 18`_                                                    |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 19    | Gio 11/5   | Traspilazione (verso Javascript e l'*AST* di Python)           | `H 19`_                                                             |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 20    | Mar 16/5   | Symbol table (e *scoping*)                                     | ICD 3; [DAR 8.4; MCD 2.11]; `H 20`_                                 |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 21    | Gio 18/5   | Interpreti ricorsivi (e *funzioni*)                            | ICD 4; [MCD 6.1-2]; `H 21`_                                         |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 22    | Mar 23/5   | Type checking (statico per tipi primitivi)                     | ICD 5; `H 22`_                                                      |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 23    | Gio 25/5   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3; `H 23`_                                               |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 24    | Mar 30/5   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6; `H 24`_                                                  |
+    |  2    | Ven  1/3   | Strutture dati ed algorimi elementari su alberi e grafi        | `H 2`_                                                              |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -119,28 +78,3 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _TPT 4: https://docs.python.org/3/tutorial/controlflow.html
 .. _TPT 5: https://docs.python.org/3/tutorial/datastructures.html
 .. _TPT 9: https://docs.python.org/3/tutorial/classes.html
-
-.. _H 1: https://github.com/let-unimi/handouts/blob/ca18ecc9d069284ffb195b55251e44fe62c5abae/L01.ipynb
-.. _H 2: https://github.com/let-unimi/handouts/blob/8ef6a7b01fe7d85bd98ac58b989564205b79a9e2/L02.ipynb
-.. _H 3: https://github.com/let-unimi/handouts/blob/946b028b86219174dd5db50e3130b11ee71b5e81/L03.ipynb
-.. _H 4: https://github.com/let-unimi/handouts/blob/1a55556a77c9292b077ab23a40ebd21ed66e6a39/L04.ipynb
-.. _H 5: https://github.com/let-unimi/handouts/blob/2b6e2d5a76a9c95e149a286f9baba76b126af5a1/L05.ipynb
-.. _H 6: https://github.com/let-unimi/handouts/blob/81f14642b5274d4a532b9b2c161c6abc30897493/L06.ipynb
-.. _H 7: https://github.com/let-unimi/handouts/blob/1be839a1010e2b6d37905778286d49badbb2d31f/L07.ipynb
-.. _H 8: https://github.com/let-unimi/handouts/blob/c4335f0af928db81aa45641d0b170848fd51ef71/L08.ipynb
-.. _H 9: https://github.com/let-unimi/handouts/blob/c07560be29a3b2484be43d7c35716a95485c11ea/L09.ipynb
-.. _H 10: https://github.com/let-unimi/handouts/blob/e61fd06f28461240a2faae92abb7a0f779ac73d7/L10.ipynb
-.. _H 11: https://github.com/let-unimi/handouts/blob/b92a693cb887b5956ba95266bea5b00a5574a8c2/L11.ipynb
-.. _H 12: https://github.com/let-unimi/handouts/blob/5ba288c3450bfd2c993e50ed997747288d739ff9/L12.ipynb
-.. _H 13: https://github.com/let-unimi/handouts/blob/0b358cc19e71e1506abbfdc175c186efca66bc00/L13.ipynb
-.. _H 14: https://github.com/let-unimi/handouts/blob/29965773ec6d0fdc875a00d5ad135779908862bd/L14.ipynb
-.. _H 15: https://github.com/let-unimi/handouts/blob/21aaa4337e120c9449cc3c80ae3e1284ed6c01b5/L15.ipynù
-.. _H 16: https://github.com/let-unimi/handouts/blob/1afe1d394580c95f84fb171c8237aea172eca143/L16.ipynb
-.. _H 17: https://github.com/let-unimi/handouts/blob/1796a5bd0e3e930d57ea04a88bb94f5bde1c243e/L17.ipynb
-.. _H 18: https://github.com/let-unimi/handouts/blob/e166382a36f55268bc41eaf2565f15cc99c2898a/L18.ipynb
-.. _H 19: https://github.com/let-unimi/handouts/blob/cdac8d451fb70cb64b71a682681c0722bcee4fde/L19.ipynb
-.. _H 20: https://github.com/let-unimi/handouts/blob/bd7a00cf72afddb25586e04a2ed2099daec92206/L20.ipynb
-.. _H 21: https://github.com/let-unimi/handouts/blob/65582d2f97a897ae2af12fbece806b9044fd9aef/L21.ipynb
-.. _H 22: https://github.com/let-unimi/handouts/blob/4cdbb741d66a5b559e4d0e07e1273677d2211031/L22.ipynb
-.. _H 23: https://github.com/let-unimi/handouts/blob/2846c3a4f5ba9a56e722987bf6f550bb8dfde4a2/L23.ipynb
-.. _H 24: https://github.com/let-unimi/handouts/blob/7c0e4ee2b3a07ab24a884ff404d3d8aa02ac0597/L24.ipynb
