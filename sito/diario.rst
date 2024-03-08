@@ -39,9 +39,13 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  2    | Ven  1/3   | Strutture dati ed algorimi elementari su alberi e grafi        | H02_                                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  3    | Mar  5/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; H03_                                |
+    |  3    | Mar  5/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; H03_                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  4    | Ven  8/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4;                                             |
+    |  4    | Ven  8/3   | Generazione delle parole, alberi di parsing e derivazioni      | `PT 3`_ 1; H04_                                                     |
+    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
+    |  5    | Mar 12/3   | Ambiguità (casi notevoli); introduzione al parsing             | `ICD 2` 1-4; `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]                |
+    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
+    |  6    | Ven 15/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7                                                       |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -71,6 +75,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H01: https://github.com/let-unimi/handouts/blob/2f464124124725cd41cfa86f145e50d814a491bd/L01.ipynb
 .. _H02: https://github.com/let-unimi/handouts/blob/88f4ad9dedcaf14f13129aa2755322597f09e042/L02.ipynb
 .. _H03: https://github.com/let-unimi/handouts/blob/d46818e72ad160e7c3c204ef4d42f7c12d7a2e21/L03.ipynb
+.. _H04: https://github.com/let-unimi/handouts/blob/1090e0a2dd3b10fc8e0da1ac261384c654e76c78/L04.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
