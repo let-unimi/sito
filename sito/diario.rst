@@ -47,6 +47,10 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  6    | Ven 15/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7; H06_                                                 |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
+    |  7    | Mar 19/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9]; H07a_. H07b_                                    |
+    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
+    |  8    | Ven 22/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5                                                      |
+    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
 
@@ -78,6 +82,8 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H04: https://github.com/let-unimi/handouts/blob/1090e0a2dd3b10fc8e0da1ac261384c654e76c78/L04.ipynb
 .. _H05: https://github.com/let-unimi/handouts/blob/6fa5e8422fdbb8d14fa63e61f1b0a73d49bb60a6/L05.ipynb
 .. _H06: https://github.com/let-unimi/handouts/blob/35150fc55b55f691428db6f6f12982510c6943dd/L06.ipynb
+.. _H07a: https://github.com/let-unimi/handouts/blob/4812302e273b372a6e4202f50b0ee1eec1fd45e5/L07a.ipynb
+.. _H07b: https://github.com/let-unimi/handouts/blob/4812302e273b372a6e4202f50b0ee1eec1fd45e5/L07b.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
