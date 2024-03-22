@@ -49,7 +49,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  7    | Mar 19/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9]; H07a_. H07b_                                    |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  8    | Ven 22/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5                                                      |
+    |  8    | Ven 22/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5; H08_                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -84,6 +84,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H06: https://github.com/let-unimi/handouts/blob/35150fc55b55f691428db6f6f12982510c6943dd/L06.ipynb
 .. _H07a: https://github.com/let-unimi/handouts/blob/4812302e273b372a6e4202f50b0ee1eec1fd45e5/L07a.ipynb
 .. _H07b: https://github.com/let-unimi/handouts/blob/4812302e273b372a6e4202f50b0ee1eec1fd45e5/L07b.ipynb
+.. _H08: https://github.com/let-unimi/handouts/blob/9c19c8a54d810128ff57e38b5cdcae68209df982/L08.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
