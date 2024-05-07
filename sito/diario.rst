@@ -67,7 +67,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
     | 16    | Ven  3/5   |                                                                | DAR 3-4; H16_                                                       |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 17    | Mar  7/5   | Dall'albero di parsing all'AST                                 |                                                                     |
+    | 17    | Mar  7/5   | Dall'albero di parsing all'AST                                 | H17_                                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 18    | Ven 10/5   | Traduzioni orientate ai dati                                   | [DAR 8]                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -125,6 +125,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H14: https://github.com/let-unimi/handouts/blob/1410273662260a2a36b460f73828216f09b32ae2/L14.ipynb
 .. _H15: https://github.com/let-unimi/handouts/blob/0ad84f0b334e971a65d397dcdfa5a800f9323d17/L15.ipynb
 .. _H16: https://github.com/let-unimi/handouts/blob/b56ba1aa9485ac92bd35b78cdbf20a86fc811e25/L16.ipynb
+.. _H17: https://github.com/let-unimi/handouts/blob/56b15caa3661ef1ed86e51e4509da95174a922a4/L17.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
