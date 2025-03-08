@@ -41,7 +41,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+   
     |  3    | Mar  4/3   | Ripasso su grammatiche e linguaggi                             | `PT 2`_ 1-4, [5-7], 9, [10-11]; H03_                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  4    | Ven  7/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4                                              |
+    |  4    | Ven  7/3   | Alberi di parsing, ambiguità (casi notevoli)                   | `PT 3`_ 1; `ICD 2` 1-4; H04_                                        |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  5    | Mar 11/3   | Introduzione al parsing                                        | `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -116,6 +116,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H01: https://github.com/let-unimi/handouts/blob/dc3716c8778d2bcac510366c19616f748f537b47/L01.ipynb
 .. _H02: https://github.com/let-unimi/handouts/blob/6dbc3895361c89a34c8395d866599aa93702a04c/L02.ipynb
 .. _H03: https://github.com/let-unimi/handouts/blob/5cae78997eaea192ccd92cbd44be7eab61704142/L03.ipynb
+.. _H04: https://github.com/let-unimi/handouts/blob/24a4897819ed347429ce7f673a4b0fe7d5f80fa1/L04.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
