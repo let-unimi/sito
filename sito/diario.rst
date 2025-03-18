@@ -47,7 +47,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  6    | Ven 14/3   | Parsing, caso generale non direzionale (*CYK*)                 | `PT 4`_ 2.1-7; H06_                                                 |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  7    | Mar 18/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9];                                                 |
+    |  7    | Mar 18/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9]; H07_                                            |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  8    | Ven 21/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5;                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -119,6 +119,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H04: https://github.com/let-unimi/handouts/blob/24a4897819ed347429ce7f673a4b0fe7d5f80fa1/L04.ipynb
 .. _H05: https://github.com/let-unimi/handouts/blob/28413987ac4e474397713c6d45c6c8f51234f5ac/L05.ipynb
 .. _H06: https://github.com/let-unimi/handouts/blob/f97fcd66723002c18f9ed58cf93f5c7bb712d7f6/L06.ipynb
+.. _H07: https://github.com/let-unimi/handouts/blob/891b609823427511291cbebc4c84b9e653e3039f/L07.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
