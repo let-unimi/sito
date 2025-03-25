@@ -51,7 +51,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  8    | Ven 21/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5; H08_                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  9    | Mar 25/3   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1                                                      |
+    |  9    | Mar 25/3   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1; H09_                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 10    | Ven 28/3   | Parsing bottom-up (simulazione BF e DF)                        | `PT 7`_ 1                                                           |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -120,7 +120,8 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H05: https://github.com/let-unimi/handouts/blob/28413987ac4e474397713c6d45c6c8f51234f5ac/L05.ipynb
 .. _H06: https://github.com/let-unimi/handouts/blob/f97fcd66723002c18f9ed58cf93f5c7bb712d7f6/L06.ipynb
 .. _H07: https://github.com/let-unimi/handouts/blob/891b609823427511291cbebc4c84b9e653e3039f/L07.ipynb
-.. _H08: https://github.com/let-unimi/handouts/blob/81b23fdfce5e11e095ebf9b14caad5be89b587f1/L08/L07.ipynb.ipynb
+.. _H08: https://github.com/let-unimi/handouts/blob/81b23fdfce5e11e095ebf9b14caad5be89b587f1/L08.ipynb
+.. _H09: https://github.com/let-unimi/handouts/blob/83da61d945b3f0f36779120e2cf04276517d95bb/L09.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
