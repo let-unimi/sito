@@ -55,11 +55,11 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 10    | Ven 28/3   | Parsing bottom-up (simulazione BF e DF)                        | `PT 7`_ 1; H10_                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 11    | Mar  1/4   |                                                                | `PT 8`_ 1-2.1;                                                      |
+    | 11    | Mar  1/4   |                                                                | `PT 8`_ 1-2.1; H11_                                                 |
     +-------+------------+                                                                +---------------------------------------------------------------------+
     | 12    | Ven  4/4   | Parsing deterministico Top-Down (*LL*)                         | `PT 8`_ 2.2-6;                                                      |
     +-------+------------+                                                                +---------------------------------------------------------------------+
-    | 13    | Mar  8/4   |                                                                |       _                                                             |
+    | 13    | Mar  8/4   |                                                                |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 14    | Ven 11/4   | Parsing deterministico Bottom-Up (*LR*)                        |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -123,6 +123,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H08: https://github.com/let-unimi/handouts/blob/efb3b0b4acbda323aca0642bb7a92c44e9eac579/L08.ipynb
 .. _H09: https://github.com/let-unimi/handouts/blob/83da61d945b3f0f36779120e2cf04276517d95bb/L09.ipynb
 .. _H10: https://github.com/let-unimi/handouts/blob/efb3b0b4acbda323aca0642bb7a92c44e9eac579/L10.ipynb
+.. _H11: https://github.com/let-unimi/handouts/blob/a226e3b35197d36fb47d2b329ce3a2c7d6b28bd3/L11.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
