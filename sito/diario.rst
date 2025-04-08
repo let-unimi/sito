@@ -59,7 +59,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+                                                                +---------------------------------------------------------------------+
     | 12    | Ven  4/4   | Parsing deterministico Top-Down (*LL*)                         | `PT 8`_ 2.2-6; H12_                                                 |
     +-------+------------+                                                                +---------------------------------------------------------------------+
-    | 13    | Mar  8/4   |                                                                |                                                                     |
+    | 13    | Mar  8/4   |                                                                | H13_                                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 14    | Ven 11/4   | Parsing deterministico Bottom-Up (*LR*)                        |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -125,6 +125,7 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 .. _H10: https://github.com/let-unimi/handouts/blob/efb3b0b4acbda323aca0642bb7a92c44e9eac579/L10.ipynb
 .. _H11: https://github.com/let-unimi/handouts/blob/a226e3b35197d36fb47d2b329ce3a2c7d6b28bd3/L11.ipynb
 .. _H12: https://github.com/let-unimi/handouts/blob/008585ab06e2f8ab6047afb7ded012288bb8d714/L12.ipynb
+.. _H13: https://github.com/let-unimi/handouts/blob/35d2e240193acb8c94cc1d935194f47b79bcc40d/L13.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
