@@ -10,24 +10,6 @@ costituisce il programma d'esame *de facto*), che alle lezioni **ancora da
 svolgere**, per le quali è *da intendersi del tutto indicativo* (sia riguardo
 alle date che al contenuto). 
 
-**Nota bene**: diversamente dagli anni passasti, le lezioni si svolgono di norma
-il martedì e venerdì dalle ore 8:30 alle ore 10:30 in Aula Magistrale al V piano
-di Via Celoria 18.
-
-Il materiale didattico indicato come *TPT* si riferisce al documento `The Python
-Tutorial <https://docs.python.org/3/tutorial/index.html>`_, quello indicato con
-*PT* si riferisce al libro di testo `Parsing Techniques. A Practical Guide
-<https://doi.org/10.1007/978-0-387-68954-8>`_, quello indicato con *ICD* al
-libro `Introduction to Compiler Design
-<https://doi.org/10.1007/978-3-319-66966-3>`__, e quello indicato con *DAR* a
-`The Definitive ANTLR 4 Reference
-<https://pragprog.com/book/tpantlr2/the-definitive-antlr-4-reference>`__; il
-materiale indicato come *H*, *E* e *S* si riferisce agli `Handout
-<https://github.com/let-unimi/handouts/>`__ del docente (relativamente a
-lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
-<numeridisezione>` che reca indicazioni su quali parti del materiale sono
-**parte del programma** e quali *letture consigliate, ma facoltative*.
-
 |
 
   .. table::
@@ -63,14 +45,14 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 14    | Ven 11/4   | Parsing deterministico Bottom-Up (*LR*)                        |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
+    | 15    | Mar 15/4   |                                                                | DAR 1-2, 9.1-2                                                      |
+    +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
+    | 16    | Mar 29/4   |                                                                | DAR 3-4        _                                                    |
+    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
+    | 17    | Mar  6/5   | Dall'albero di parsing all'AST                                 |                                                                     |
+    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 ..
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 15    | Mar 15/4   |                                                                | DAR 1-2, 9.1-2; `H 15`_                                             |
-    +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
-    | 16    | Mar 29/4   |                                                                | DAR 3-4; `H 16`_                                                    |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 17    | Mar  6/5   | Dall'albero di parsing all'AST                                 | `H 17`_                                                             |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 18    | Ven  9/5   | Traduzioni orientate ai dati                                   | [DAR 8]; `H 18`_                                                    |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -91,13 +73,20 @@ lezioni, esercizi e soluzioni); si veda la nota sui :ref:`numeri di sezione
 
 |
 
-.. admonition:: Nota bene
+.. admonition:: Legenda
   :class: alert alert-secondary
 
-  Accanto a ciascun riferimento che reca un numero di *capitolo* possono trovarsi
-  dei *numeri di sezione* essi sono da intendersi nel seguente modo:
+  Le **sigle** utilizzate per i riferimenti al materiale didattico sono le seguenti:
 
-  .. _numeridisezione:
+  * *TPT* si riferisce a `The Python Tutorial <https://docs.python.org/3/tutorial/index.html>`_, 
+  * *PT* si riferisce a `Parsing Techniques. A Practical Guide <https://doi.org/10.1007/978-0-387-68954-8>`_, 
+  * *ICD* si riferisce a `Introduction to Compiler Design <https://doi.org/10.1007/978-3-319-66966-3>`__, 
+  * *MCD* si riferisce a `Modern Compiler Design <https://doi.org/10.1007/978-1-4614-4699-6>`__,
+  * *DAR*  si riferisce a `The Definitive ANTLR 4 Reference <https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference>`__,
+  * *H* si riferisce agli `Handout <https://github.com/let-unimi/handouts/>`__ del docente,
+
+  Accanto a ciascun riferimento che reca un **numero di capitolo** possono trovarsi
+  dei **numeri di sezione** essi sono da intendersi nel seguente modo:
 
   * se assenti: l'*intero capitolo è parte del programma* (ad esempio, con "`TPT 5`_" si intende
     l'intero capitolo 5 di `The Python Tutorial`_),

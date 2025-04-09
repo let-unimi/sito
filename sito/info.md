@@ -124,6 +124,9 @@ I **libri di testo** per la parte teorica ed algoritmica dell'insegnamento sono:
 * Torben Ægidius Mogensen (2017),
   [Introduction to Compiler Design](https://doi.org/10.1007/978-3-319-66966-3), *Springer International Publishing* AG.
 
+* Dick Grune, Kees van Reeuwijk, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen
+  [Modern Compiler Design](https://doi.org/10.1007/978-1-4614-4699-6), *Springer New York* NY.
+
 È possibile scaricare una versione PDF gratuita (nei termini della licenza d'uso
 stabilita dall'editore) del primo testo dalla rete dell'Ateneo, mentre del
 secondo testo esiste una versione preliminare gratuita intitolata [Basics of
