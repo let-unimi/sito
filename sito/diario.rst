@@ -43,7 +43,7 @@ alle date che al contenuto).
     +-------+------------+                                                                +---------------------------------------------------------------------+
     | 13    | Mar  8/4   |                                                                | H13_                                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 14    | Ven 11/4   | Parsing deterministico Bottom-Up (*LR*)                        |                                                                     |
+    | 14    | Ven 11/4   | Parsing deterministico Bottom-Up (*LR*)                        | `PT 9`_ 5 - 5.3; H14_                                               |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 15    | Mar 15/4   |                                                                | DAR 1-2, 9.1-2                                                      |
     +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
@@ -115,6 +115,7 @@ alle date che al contenuto).
 .. _H11: https://github.com/let-unimi/handouts/blob/a226e3b35197d36fb47d2b329ce3a2c7d6b28bd3/L11.ipynb
 .. _H12: https://github.com/let-unimi/handouts/blob/008585ab06e2f8ab6047afb7ded012288bb8d714/L12.ipynb
 .. _H13: https://github.com/let-unimi/handouts/blob/35d2e240193acb8c94cc1d935194f47b79bcc40d/L13.ipynb
+.. _H14: https://github.com/let-unimi/handouts/blob/caba340690763171eb70c4a80f0cab651af122ef/L14.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
