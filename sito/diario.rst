@@ -63,11 +63,9 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 23    | Ven 23/5   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3; H23_                                                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 24    | Mar 27/5   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6;                                                          |
+    | 24    | Mar 27/5   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6; H24_                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |       | Ven 30/5   | *Presentazione progetto*                                       |                                                                     |
-    +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-
+    
 .. admonition:: Legenda
   :class: alert alert-secondary
 
@@ -120,6 +118,7 @@ alle date che al contenuto).
 .. _H21: https://github.com/let-unimi/handouts/blob/b2f228eea97badf0999f84e37a795d790023e30d/L21.ipynb
 .. _H22: https://github.com/let-unimi/handouts/blob/5a7a8bb9e13271c05eb4cda60bcb70bb3e4f8293/L22.ipynb
 .. _H23: https://github.com/let-unimi/handouts/blob/daa27d1e9261573b3940db5e667ac936de29242e/L23.ipynb
+.. _H24: https://github.com/let-unimi/handouts/blob/2318c6bf1b96dd6ddb6c0bf5a734195a2a6a31aa/L24.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
