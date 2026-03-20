@@ -27,7 +27,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  5    | Mar 17/3   | Introduzione al Parsing                                        | `ICD 2` 1-4; `PT 3`_ 2-3, 4.1-3, [4.4-5], 5.1-5, [8]; H05_          |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  6    | Ven 19/3   | Caso generale non direzionale (*CYK*)                          | `PT 4`_ 2.1-7;                                                      |
+    |  6    | Ven 19/3   | Caso generale non direzionale (*CYK*)                          | `PT 4`_ 2.1-7; H06_                                                 |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -66,6 +66,7 @@ alle date che al contenuto).
 .. _H03: https://github.com/let-unimi/handouts/blob/aa2526/L03.ipynb
 .. _H04: https://github.com/let-unimi/handouts/blob/aa2526/L04.ipynb
 .. _H05: https://github.com/let-unimi/handouts/blob/aa2526/L05.ipynb
+.. _H06: https://github.com/let-unimi/handouts/blob/aa2526/L06.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
