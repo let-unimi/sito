@@ -31,7 +31,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  7    | Mar 24/3   | Linguaggi regolari e automi a stati finiti                     | `PT 5`_ 1-5, [7-9]; H07_                                            |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  8    | Ven 27/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5                                                      |
+    |  8    | Ven 27/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5; H08_                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -72,6 +72,7 @@ alle date che al contenuto).
 .. _H05: https://github.com/let-unimi/handouts/blob/aa2526/L05.ipynb
 .. _H06: https://github.com/let-unimi/handouts/blob/aa2526/L06.ipynb
 .. _H07: https://github.com/let-unimi/handouts/blob/aa2526/L07.ipynb
+.. _H08: https://github.com/let-unimi/handouts/blob/aa2526/L08.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
