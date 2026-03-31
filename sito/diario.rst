@@ -33,7 +33,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |  8    | Ven 27/3   | Parsing top-down (*NPDA*, simulazione BF e DF)                 | `PT 6`_ 1-3, 5; H08_                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    |  9    | Mar 31/3   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1;                                                     |
+    |  9    | Mar 31/3   | *Recursive descent* (con generazione automatica del parser)    | `PT 6`_ 4, 6.1; H09_                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |       | Ven  3/4   | *Vacanze Pasquali*                                             |                                                                     | 
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -81,6 +81,7 @@ alle date che al contenuto).
 .. _H06: https://github.com/let-unimi/handouts/blob/aa2526/L06.ipynb
 .. _H07: https://github.com/let-unimi/handouts/blob/aa2526/L07.ipynb
 .. _H08: https://github.com/let-unimi/handouts/blob/aa2526/L08.ipynb
+.. _H09: https://github.com/let-unimi/handouts/blob/aa2526/L09.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
