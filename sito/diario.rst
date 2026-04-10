@@ -39,7 +39,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     |       | Max  7/4   | *Lezione sospesa*                                              |                                                                     | 
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 10    | Ven  10/4  | Parsing bottom-up (simulazione BF e DF)                        | `PT 7`_ 1;                                                          |
+    | 10    | Ven  10/4  | Parsing bottom-up (simulazione BF e DF)                        | `PT 7`_ 1; H10_                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -82,6 +82,7 @@ alle date che al contenuto).
 .. _H07: https://github.com/let-unimi/handouts/blob/aa2526/L07.ipynb
 .. _H08: https://github.com/let-unimi/handouts/blob/aa2526/L08.ipynb
 .. _H09: https://github.com/let-unimi/handouts/blob/aa2526/L09.ipynb
+.. _H10: https://github.com/let-unimi/handouts/blob/aa2526/L10.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
