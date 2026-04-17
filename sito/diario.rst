@@ -39,7 +39,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 11    | Mar 14/4   |                                                                | `PT 8`_ 1-2.1; H11_                                                 |
     +-------+------------+                                                                +---------------------------------------------------------------------+
-    | 12    | Ven 17/4   | Parsing deterministico Top-Down (*LL*)                         | `PT 8`_ 2.2-6                                                       |
+    | 12    | Ven 17/4   | Parsing deterministico Top-Down (*LL*)                         | `PT 8`_ 2.2-6i; H12_                                                |
     +-------+------------+                                                                +---------------------------------------------------------------------+
     | 13    | Mar 21/4   |                                                                |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -87,6 +87,7 @@ alle date che al contenuto).
 .. _H09: https://github.com/let-unimi/handouts/blob/aa2526/L09.ipynb
 .. _H10: https://github.com/let-unimi/handouts/blob/aa2526/L10.ipynb
 .. _H11: https://github.com/let-unimi/handouts/blob/aa2526/L11.ipynb
+.. _H12: https://github.com/let-unimi/handouts/blob/aa2526/L12.ipynb   
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
