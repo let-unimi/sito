@@ -43,7 +43,7 @@ alle date che al contenuto).
     +-------+------------+                                                                +---------------------------------------------------------------------+
     | 13    | Mar 21/4   |                                                                | H13_                                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 14    | Ven 24/4   | Parsing deterministico Bottom-Up (*LR*)                        | `PT 9`_ 5 - 5.3                                                     |
+    | 14    | Ven 24/4   | Parsing deterministico Bottom-Up (*LR*)                        | `PT 9`_ 5 - 5.3; H14_                                               |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 |
 
@@ -89,6 +89,7 @@ alle date che al contenuto).
 .. _H11: https://github.com/let-unimi/handouts/blob/aa2526/L11.ipynb
 .. _H12: https://github.com/let-unimi/handouts/blob/aa2526/L12.ipynb   
 .. _H13: https://github.com/let-unimi/handouts/blob/aa2526/L13.ipynb
+.. _H14: https://github.com/let-unimi/handouts/blob/aa2526/L14.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
