@@ -47,7 +47,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 15    | Mar 28/4   |                                                                | DAR 1-2, 9.1-2; H15_                                                |
     +-------+------------+ ANTLR: grammatiche, tokenizer, parser (*visitor* e *listener*) +---------------------------------------------------------------------+
-    | 16    | Mar  5/5   |                                                                | DAR 3-4                                                             |
+    | 16    | Mar  5/5   |                                                                | DAR 3-4i; H16_                                                      |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 17    | Ven  8/5   | Dall'albero di parsing all'AST                                 |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -112,6 +112,7 @@ alle date che al contenuto).
 .. _H13: https://github.com/let-unimi/handouts/blob/aa2526/L13.ipynb
 .. _H14: https://github.com/let-unimi/handouts/blob/aa2526/L14.ipynb
 .. _H15: https://github.com/let-unimi/handouts/blob/aa2526/L15.ipynb
+.. _H16: https://github.com/let-unimi/handouts/blob/aa2526/L16.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
