@@ -51,7 +51,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 17    | Ven  8/5   | Dall'albero di parsing all'AST                                 | H17_                                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 18    | Mar 12/5   | Traduzioni orientate ai dati                                   | [DAR 8]                                                             |
+    | 18    | Mar 12/5   | Traduzioni orientate ai dati                                   | [DAR 8]; H18_                                                       |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 19    | Ven 15/5   | Traspilazione (verso Javascript e l'*AST* di Python)           |                                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -114,6 +114,7 @@ alle date che al contenuto).
 .. _H15: https://github.com/let-unimi/handouts/blob/aa2526/L15.ipynb
 .. _H16: https://github.com/let-unimi/handouts/blob/aa2526/L16.ipynb
 .. _H17: https://github.com/let-unimi/handouts/blob/aa2526/L17.ipynb
+.. _H18: https://github.com/let-unimi/handouts/blob/aa2526/L18.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
