@@ -55,7 +55,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 19    | Ven 15/5   | Traspilazione (verso Javascript e l'*AST* di Python)           | H19_                                                                |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 20    | Mar 19/5   | Symbol table (e *scoping*)                                     | ICD 3; [DAR 8.4; MCD 2.11]                                          |
+    | 20    | Mar 19/5   | Symbol table (e *scoping*)                                     | ICD 3; [DAR 8.4; MCD 2.11]; H20_                                    |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 21    | Ven 22/5   | Interpreti ricorsivi (e *funzioni*)                            | ICD 4; [MCD 6.1-2]                                                  |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -116,6 +116,7 @@ alle date che al contenuto).
 .. _H17: https://github.com/let-unimi/handouts/blob/aa2526/L17.ipynb
 .. _H18: https://github.com/let-unimi/handouts/blob/aa2526/L18.ipynb
 .. _H19: https://github.com/let-unimi/handouts/blob/aa2526/L19.ipynb   
+.. _H20: https://github.com/let-unimi/handouts/blob/aa2526/L20.ipynb   
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
