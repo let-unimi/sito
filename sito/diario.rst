@@ -59,7 +59,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 21    | Ven 22/5   | Interpreti ricorsivi (e *funzioni*)                            | ICD 4; [MCD 6.1-2]i; H21_                                           |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 22    | Mar 26/5   | Type checking (statico per tipi primitivi)                     | ICD 5                                                               |
+    | 22    | Mar 26/5   | Type checking (statico per tipi primitivi)                     | ICD 5; H22_                                                         |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 23    | Ven 29/5   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3                                                        |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
@@ -118,6 +118,7 @@ alle date che al contenuto).
 .. _H19: https://github.com/let-unimi/handouts/blob/aa2526/L19.ipynb   
 .. _H20: https://github.com/let-unimi/handouts/blob/aa2526/L20.ipynb   
 .. _H21: https://github.com/let-unimi/handouts/blob/aa2526/L21.ipynb   
+.. _H22: https://github.com/let-unimi/handouts/blob/aa2526/L22.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
