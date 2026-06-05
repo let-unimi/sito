@@ -63,7 +63,7 @@ alle date che al contenuto).
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
     | 23    | Ven 29/5   | Interpreti iterativi (*code threading* e VM a pila)            | MCD 5.1, 6.3i; H23_                                                 |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
-    | 24    | Ven  5/6   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6                                                           |
+    | 24    | Ven  5/6   | Generazione di codice (con l'*IR* di *LLVM*)                   | ICD 6.1-6; H24_                                                     |
     +-------+------------+----------------------------------------------------------------+---------------------------------------------------------------------+
 
 |
@@ -120,6 +120,7 @@ alle date che al contenuto).
 .. _H21: https://github.com/let-unimi/handouts/blob/aa2526/L21.ipynb   
 .. _H22: https://github.com/let-unimi/handouts/blob/aa2526/L22.ipynb
 .. _H23: https://github.com/let-unimi/handouts/blob/aa2526/L23.ipynb   
+.. _H24: https://github.com/let-unimi/handouts/blob/aa2526/L24.ipynb
 
 .. _PT 1: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_1.pdf
 .. _PT 2: https://link.springer.com/content/pdf/10.1007%2F978-0-387-68954-8_2.pdf
